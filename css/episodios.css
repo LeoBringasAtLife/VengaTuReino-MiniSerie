@@ -1,0 +1,316 @@
+/* ============================================
+   Estilos para Episodios
+   ============================================ */
+
+.episodios-section {
+    padding: var(--spacing-3xl) var(--container-padding);
+    background-color: var(--color-secondary);
+}
+
+.section-title {
+    font-size: var(--font-size-h2);
+    font-weight: var(--font-weight-bold);
+    color: var(--color-primary);
+    margin-bottom: var(--spacing-xl);
+    text-align: center;
+}
+
+/* Lista de Episodios */
+.episodios-list {
+    list-style: none;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.episodio-item {
+    padding: var(--spacing-lg) 0;
+    border-bottom: 1px solid var(--color-accent-light);
+    transition: all var(--transition-fast);
+}
+
+.episodio-item:first-child {
+    padding-top: 0;
+}
+
+.episodio-item:last-child {
+    border-bottom: none;
+}
+
+.episodio-item:hover {
+    padding-left: var(--spacing-sm);
+}
+
+.episodio-link {
+    display: block;
+    color: var(--color-primary);
+}
+
+.episodio-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: var(--spacing-md);
+    margin-bottom: var(--spacing-xs);
+}
+
+.episodio-number {
+    font-size: var(--font-size-small);
+    font-weight: var(--font-weight-medium);
+    color: var(--color-accent);
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+}
+
+.episodio-date {
+    font-size: var(--font-size-small);
+    color: var(--color-accent);
+    white-space: nowrap;
+}
+
+.episodio-title {
+    font-size: 1.25rem;
+    font-weight: var(--font-weight-semibold);
+    color: var(--color-primary);
+    margin-bottom: var(--spacing-xs);
+    line-height: 1.3;
+}
+
+.episodio-status {
+    display: inline-block;
+    font-size: 0.75rem;
+    font-weight: var(--font-weight-medium);
+    color: var(--color-accent);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    padding: 0.25rem 0.5rem;
+    background-color: var(--color-accent-light);
+    border-radius: 2px;
+}
+
+.episodio-status.proximamente {
+    background-color: #fef3c7;
+    color: #92400e;
+}
+
+/* Página Individual de Episodio */
+.episodio-page {
+    padding: var(--spacing-3xl) var(--container-padding);
+    padding-top: calc(70px + var(--spacing-xl));
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.episodio-page-header {
+    margin-bottom: var(--spacing-xl);
+    padding-bottom: var(--spacing-lg);
+    border-bottom: 1px solid var(--color-accent-light);
+}
+
+.episodio-page-title {
+    font-size: var(--font-size-h1);
+    margin-bottom: var(--spacing-sm);
+}
+
+.episodio-page-meta {
+    display: flex;
+    gap: var(--spacing-lg);
+    font-size: var(--font-size-small);
+    color: var(--color-accent);
+    margin-bottom: var(--spacing-md);
+}
+
+.episodio-content {
+    line-height: 1.8;
+    color: var(--color-accent);
+}
+
+.episodio-content p {
+    margin-bottom: var(--spacing-md);
+}
+
+.episodio-timestamp {
+    font-weight: var(--font-weight-medium);
+    color: var(--color-primary);
+    margin-right: var(--spacing-xs);
+}
+
+/* Navegación de Episodio */
+.episodio-navigation {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: var(--spacing-2xl);
+    padding-top: var(--spacing-lg);
+    border-top: 1px solid var(--color-accent-light);
+}
+
+.nav-link {
+    display: inline-flex;
+    align-items: center;
+    gap: var(--spacing-xs);
+    font-size: var(--font-size-small);
+    font-weight: var(--font-weight-medium);
+    color: var(--color-accent);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    transition: color var(--transition-fast);
+}
+
+.nav-link:hover {
+    color: var(--color-primary);
+}
+
+.nav-link.disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+    pointer-events: none;
+}
+
+.back-link {
+    display: inline-block;
+    margin-top: var(--spacing-xl);
+    font-size: var(--font-size-small);
+    font-weight: var(--font-weight-medium);
+    color: var(--color-accent);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+.back-link:hover {
+    color: var(--color-primary);
+}
+
+/* Videos de YouTube */
+.videos-section {
+    padding: var(--spacing-3xl) var(--container-padding);
+    padding-top: var(--spacing-2xl);
+    background-color: var(--color-secondary);
+    margin-top: var(--spacing-3xl);
+}
+
+.videos-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: var(--spacing-xl);
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.video-item {
+    background-color: var(--color-secondary);
+    border-radius: 8px;
+    overflow: hidden;
+    transition: transform var(--transition-fast), box-shadow var(--transition-fast);
+}
+
+.video-item:hover {
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.150);
+}
+
+/* Ocultar información de texto en videos */
+.videos-section .video-info {
+    display: none;
+}
+
+.video-wrapper {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 aspect ratio */
+    height: 0;
+    overflow: hidden;
+    background-color: #000;
+}
+
+.video-wrapper iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: none;
+}
+
+.video-info {
+    padding: var(--spacing-md);
+}
+
+.video-title {
+    font-size: 1rem;
+    font-weight: var(--font-weight-semibold);
+    color: var(--color-primary);
+    margin-bottom: var(--spacing-xs);
+}
+
+.video-episode {
+    font-size: var(--font-size-small);
+    color: var(--color-accent);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+/* Video en página individual */
+.episodio-video {
+    margin-bottom: var(--spacing-xl);
+    border-radius: 8px;
+    overflow: hidden;
+    background-color: #000;
+}
+
+.episodio-video-wrapper {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 aspect ratio */
+    height: 0;
+    overflow: hidden;
+}
+
+.episodio-video-wrapper iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: none;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .episodios-section {
+        padding: var(--spacing-xl) var(--container-padding);
+    }
+    
+    .episodio-item {
+        padding: var(--spacing-md) 0;
+    }
+    
+    .episodio-header {
+        flex-direction: column;
+        gap: var(--spacing-xs);
+    }
+    
+    .episodio-title {
+        font-size: 1.125rem;
+    }
+    
+    .episodio-page {
+        padding-top: calc(60px + var(--spacing-lg));
+    }
+    
+    .episodio-page-title {
+        font-size: 2rem;
+    }
+    
+    .episodio-navigation {
+        flex-direction: column;
+        gap: var(--spacing-md);
+        align-items: flex-start;
+    }
+    
+    .videos-section {
+        padding: var(--spacing-xl) var(--container-padding);
+        margin-top: var(--spacing-xl);
+    }
+    
+    .videos-grid {
+        grid-template-columns: 1fr;
+        gap: var(--spacing-lg);
+    }
+}
