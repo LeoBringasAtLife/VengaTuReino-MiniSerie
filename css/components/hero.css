@@ -1,3 +1,5 @@
+/* Componente: Hero Section */
+
 .hero {
     min-height: 80vh;
     display: flex;
@@ -28,7 +30,7 @@
     font-weight: var(--font-weight-regular);
     color: var(--color-accent);
     line-height: 1.6;
-    max-width: 600px;
+    max-width: 500px;
     margin: 0 auto var(--spacing-xl);
 }
 
@@ -53,23 +55,4 @@
 .cta-button:hover {
     background-color: var(--color-primary);
     color: var(--color-secondary);
-}
-
-/* Responsive */
-@media (max-width: 768px) {
-    .hero {
-        min-height: 70vh;
-        padding-top: calc(60px + var(--spacing-xl));
-        padding-bottom: var(--spacing-xl);
-    }
-    
-    .hero-title {
-        font-size: 2.5rem;
-        margin-bottom: var(--spacing-md);
-    }
-    
-    .hero-subtitle {
-        font-size: 1.125rem;
-        margin-bottom: var(--spacing-lg);
-    }
 }

@@ -1,6 +1,4 @@
-/* ============================================
-   Estilos para Episodios
-   ============================================ */
+/* Componente: Episodios */
 
 .episodios-section {
     padding: var(--spacing-3xl) var(--container-padding);
@@ -269,48 +267,4 @@
     width: 100%;
     height: 100%;
     border: none;
-}
-
-/* Responsive */
-@media (max-width: 768px) {
-    .episodios-section {
-        padding: var(--spacing-xl) var(--container-padding);
-    }
-    
-    .episodio-item {
-        padding: var(--spacing-md) 0;
-    }
-    
-    .episodio-header {
-        flex-direction: column;
-        gap: var(--spacing-xs);
-    }
-    
-    .episodio-title {
-        font-size: 1.125rem;
-    }
-    
-    .episodio-page {
-        padding-top: calc(60px + var(--spacing-lg));
-    }
-    
-    .episodio-page-title {
-        font-size: 2rem;
-    }
-    
-    .episodio-navigation {
-        flex-direction: column;
-        gap: var(--spacing-md);
-        align-items: flex-start;
-    }
-    
-    .videos-section {
-        padding: var(--spacing-xl) var(--container-padding);
-        margin-top: var(--spacing-xl);
-    }
-    
-    .videos-grid {
-        grid-template-columns: 1fr;
-        gap: var(--spacing-lg);
-    }
 }

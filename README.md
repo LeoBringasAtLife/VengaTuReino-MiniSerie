@@ -12,7 +12,7 @@ El sitio permite navegar por los diferentes episodios, leer las transcripciones 
 
 - **Navegación intuitiva**: Menú responsive que se adapta a dispositivos móviles y desktop
 - **Episodios dinámicos**: Los episodios se cargan desde un archivo JSON, facilitando la actualización del contenido
-- **Transcripciones formateadas**: Las transcripciones se procesan automáticamente, detectando timestamps y formateándolas en párrafos legibles
+- **Transcripciones formateadas**: Las transcripciones se procesan automáticamente y se formatean en párrafos legibles
 - **Videos embebidos**: Integración directa con YouTube para reproducir los videos de cada episodio
 - **Diseño responsive**: Funciona perfectamente en cualquier dispositivo
 - **Navegación entre episodios**: Enlaces para moverse entre episodios anteriores y siguientes
@@ -25,15 +25,24 @@ VengaTuReino-MiniSerie/
 │   └── images/
 │       └── leo3.jpeg          # Imagen del pastor (es mi foto, para probar las dimensiones)
 ├── css/
-│   ├── styles.css              # Estilos base y variables CSS
-│   ├── header.css              # Estilos del header y navegación
-│   ├── hero.css                # Estilos de la sección hero
-│   └── episodios.css           # Estilos de episodios y contenido
+│   ├── base/
+│   │   ├── variables.css       # Variables CSS y fuentes
+│   │   ├── reset.css           # Reset y estilos base
+│   │   ├── typography.css      # Tipografía (h1-h6, p, a)
+│   │   └── responsive.css      # Media queries responsive
+│   ├── layout/
+│   │   └── container.css       # Container y utilidades
+│   └── components/
+│       ├── header.css          # Estilos del header y navegación
+│       ├── hero.css            # Estilos de la sección hero
+│       └── episodios.css       # Estilos de episodios y contenido
 ├── data/
 │   └── episodios.json          # Datos de todos los episodios
 ├── js/
-│   ├── main.js                 # Funcionalidad principal (menú, scroll)
-│   └── episodios.js            # Lógica de carga y renderizado de episodios
+│   ├── core/
+│   │   └── navigation.js       # Funcionalidad de navegación (menú, scroll)
+│   └── modules/
+│       └── episodios.js        # Lógica de carga y renderizado de episodios
 ├── transcripciones/
 │   ├── Episodio01.txt
 │   ├── Episodio02.txt
@@ -43,7 +52,9 @@ VengaTuReino-MiniSerie/
 ├── index.html                  # Página principal
 ├── episodios.html              # Lista de todos los episodios
 ├── episodio.html               # Página individual de cada episodio
-└── sobre.html                  # Página "Sobre la serie"
+├── sobre.html                  # Página "Sobre la serie"
+├── README.md                   # Documentación del proyecto
+└── PROMPT_ORIGINAL.md          # Prompt original usado para crear el proyecto
 ```
 
 ## Tecnologías Utilizadas
@@ -69,9 +80,9 @@ Los episodios se cargan dinámicamente desde `data/episodios.json`. Este archivo
 ### Procesamiento de Transcripciones
 
 Las transcripciones se encuentran en archivos `.txt` dentro de la carpeta `transcripciones/`. El JavaScript procesa estos archivos para:
-- Detectar timestamps (formato `0:00`, `1:23`, etc.)
 - Convertir el texto plano en párrafos HTML formateados
-- Mostrar los timestamps como etiquetas visuales en el contenido
+- Mantener el formato original del texto
+- Mostrar el contenido de manera legible en el sitio
 
 ### Navegación
 
@@ -106,13 +117,14 @@ El sitio incluye:
 Las transcripciones deben seguir este formato:
 
 ```
-Transcripción del Episodio XX (titulo)
+Transcripción del Episodio XX (título)
+
 Texto del inicio del episodio... (contenido)
 Continuación del contenido... (contenido)
 Más contenido... (contenido)
 ```
 
-El sistema detecta automáticamente los timestamps y los formatea visualmente en el sitio.
+El sistema procesa automáticamente el texto y lo formatea en párrafos HTML para una lectura cómoda en el sitio.
 
 ## Desarrollo
 

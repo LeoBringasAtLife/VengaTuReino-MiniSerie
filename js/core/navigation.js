@@ -1,4 +1,4 @@
-/* Funcionalidad Principal */
+/* Funcionalidad de Navegación */
 
 // Header scroll effect
 document.addEventListener('DOMContentLoaded', function() {
