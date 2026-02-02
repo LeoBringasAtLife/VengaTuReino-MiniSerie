@@ -28,7 +28,7 @@ function renderizarListaEpisodios(container, limite = null) {
     
     const html = episodios.map(episodio => {
         const fecha = formatearFecha(episodio.fecha);
-        const estado = episodio.disponible ? 'Disponible' : 'Proximamente';
+        const estado = episodio.disponible ? 'Disponible' : 'Próximamente';
         const estadoTexto = episodio.disponible ? 'Disponible' : 'Próximamente';
         const enlace = episodio.disponible ? `episodio.html?id=${episodio.id}` : '#';
         
@@ -65,22 +65,20 @@ async function cargarContenidoEpisodio(archivo) {
 function procesarTranscripcion(texto) {
     if (!texto) return { contenido: '', titulo: '' };
     
-    // Dividir en líneas manteniendo las vacías para procesamiento
     const lineas = texto.split('\n');
     let titulo = '';
     let contenidoInicio = 0;
     
-    // Extraer título de la primera línea
     if (lineas.length > 0 && lineas[0].trim().includes('Transcripción')) {
         titulo = lineas[0].trim();
         contenidoInicio = 1;
-        // Saltar línea vacía después del título
+
         if (lineas[1] && !lineas[1].trim()) {
             contenidoInicio = 2;
         }
     }
     
-    // Procesar el contenido
+
     let contenidoHTML = '';
     let parrafoActual = '';
     let timestampActual = '';
@@ -89,44 +87,42 @@ function procesarTranscripcion(texto) {
         const linea = lineas[i];
         const lineaTrim = linea.trim();
         
-        // Detectar timestamp (formato: 0:00, 1:23, 10:45, etc.)
         const timestampMatch = lineaTrim.match(/^(\d+:\d+)$/);
         
         if (timestampMatch) {
-            // Si hay un párrafo acumulado, cerrarlo antes del nuevo timestamp
+
             if (parrafoActual) {
                 contenidoHTML += `<p>${parrafoActual}</p>`;
                 parrafoActual = '';
             }
             timestampActual = timestampMatch[1];
         } else if (lineaTrim) {
-            // Agregar línea al párrafo actual
+
             if (parrafoActual) {
                 parrafoActual += ' ';
             }
-            // Agregar timestamp si existe antes del texto
+            // Agregar timestamp si existe (Proximamente Eliminarlo si o si). 
             if (timestampActual) {
                 parrafoActual += `<span class="episodio-timestamp">[${timestampActual}]</span> `;
                 timestampActual = '';
             }
             parrafoActual += lineaTrim;
         } else if (parrafoActual) {
-            // Línea vacía: cerrar párrafo actual
+
             contenidoHTML += `<p>${parrafoActual}</p>`;
             parrafoActual = '';
-            timestampActual = ''; // Reset timestamp si hay línea vacía
+            timestampActual = '';
         }
     }
-    
-    // Cerrar último párrafo si existe
+
     if (parrafoActual) {
         contenidoHTML += `<p>${parrafoActual}</p>`;
     }
-    
+
     return { contenido: contenidoHTML, titulo };
 }
 
-// Extraer videoId de una URL de YouTube
+// Extraer videoId de URL de YouTube
 function extraerVideoId(url) {
     if (!url) return '';
     
@@ -248,7 +244,7 @@ async function renderizarEpisodio(episodioId, container) {
                     ? `<a href="episodio.html?id=${episodioAnterior.id}" class="nav-link">← Episodio ${episodioAnterior.numero}</a>`
                     : '<span class="nav-link disabled">← Anterior</span>'
                 }
-                <a href="episodios.html" class="back-link">← Volver a Episodios</a>
+                <a href="episodios.html" class="back-link">Volver a los Episodios</a>
                 ${episodioSiguiente && episodioSiguiente.disponible 
                     ? `<a href="episodio.html?id=${episodioSiguiente.id}" class="nav-link">Episodio ${episodioSiguiente.numero} →</a>`
                     : '<span class="nav-link disabled">Siguiente →</span>'

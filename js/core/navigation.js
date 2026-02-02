@@ -1,4 +1,3 @@
-/* Funcionalidad de Navegación */
 
 // Header scroll effect
 document.addEventListener('DOMContentLoaded', function() {
@@ -6,7 +5,6 @@ document.addEventListener('DOMContentLoaded', function() {
     const menuToggle = document.querySelector('.menu-toggle');
     const mainNav = document.querySelector('.main-nav');
     
-    // Header scroll effect
     if (header) {
         let lastScroll = 0;
         

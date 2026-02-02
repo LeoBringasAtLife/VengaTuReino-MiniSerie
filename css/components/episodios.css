@@ -126,6 +126,7 @@
     margin-bottom: var(--spacing-md);
 }
 
+/* Timestamp (Proximamente Eliminar) */
 .episodio-timestamp {
     font-weight: var(--font-weight-medium);
     color: var(--color-primary);
