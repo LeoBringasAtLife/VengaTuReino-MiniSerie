@@ -5,7 +5,7 @@
       "numero": 1,
       "titulo": "Venga Tu Reino | Episodio 01",
       "fecha": "2026-01-07",
-      "archivo": "Episodio01.txt",
+      "archivo": "transcripciones/Episodio01.txt",
       "disponible": true,
       "videoUrl": "https://youtu.be/JulTVl6eo0U",
       "descripcion": "Una confrontación constante con la Palabra de Dios para alcanzar una genuina transformación de vida."
@@ -15,7 +15,7 @@
       "numero": 2,
       "titulo": "Venga Tu Reino | Episodio 02",
       "fecha": "2026-01-14",
-      "archivo": "Episodio02.txt",
+      "archivo": "transcripciones/Episodio02.txt",
       "disponible": true,
       "videoUrl": "https://youtu.be/Bcmarqm4Wu0",
       "descripcion": "Cuando ponemos a Dios en primer lugar, todas las cosas se ordenan, se alinean, todo se encamina."
@@ -25,7 +25,7 @@
       "numero": 3,
       "titulo": "Venga Tu Reino | Episodio 03",
       "fecha": "2026-01-21",
-      "archivo": "Episodio03.txt",
+      "archivo": "transcripciones/Episodio03.txt",
       "disponible": true,
       "videoUrl": "https://youtu.be/HBQSpvE5MtQ",
       "descripcion": "Poner las cosas en el lugar que tienen que estar, restaurar el orden correcto en nuestras vidas."
@@ -35,7 +35,7 @@
       "numero": 4,
       "titulo": "Venga Tu Reino | Episodio 04",
       "fecha": "2026-01-28",
-      "archivo": "Episodio04.txt",
+      "archivo": "transcripciones/Episodio04.txt",
       "disponible": true,
       "videoUrl": "https://youtu.be/WiH9IJcKWEA",
       "descripcion": "El clamor que le corresponde a la iglesia: que se manifieste la forma de vida del reino de los cielos."
@@ -45,8 +45,8 @@
       "numero": 5,
       "titulo": "Venga Tu Reino | Episodio 05",
       "fecha": "2026-02-04",
-      "archivo": "Episodio05.txt",
-      "disponible": false,
+      "archivo": "transcripciones/Episodio05.txt",
+      "disponible": true,
       "videoUrl": "",
       "descripcion": "Próximo miércoles a las 20:00 (hora argentina) - Venga Tu Reino | Episodio 05."
     }
