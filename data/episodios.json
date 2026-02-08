@@ -8,8 +8,13 @@
       "autor": "Pr. Walter Escalante",
       "archivo": "transcripciones/Episodio01.txt",
       "disponible": true,
+<<<<<<< HEAD
       "videoUrl": "https://youtu.be/JulTVl6eo0U?si=gc0oX7kQqwIYT0-f",
       "descripcion": ""
+=======
+      "videoUrl": "https://youtu.be/JulTVl6eo0U?si=2RralWvyva72OD1o",
+      "descripcion": "Una confrontación constante con la Palabra de Dios para alcanzar una genuina transformación de vida."
+>>>>>>> e22c673a87b9f0b975937f8ae8c3acd30f225d6f
     },
     {
       "id": 2,
@@ -18,8 +23,13 @@
       "fecha": "2026-01-14",
       "archivo": "transcripciones/Episodio02.txt",
       "disponible": true,
+<<<<<<< HEAD
       "videoUrl": "https://youtu.be/Bcmarqm4Wu0?si=Arbjom7KZQDGjhRO",
       "descripcion": ""
+=======
+      "videoUrl": "https://youtu.be/Bcmarqm4Wu0?si=OkeF0ZFhNXZorLQt",
+      "descripcion": "Cuando ponemos a Dios en primer lugar, todas las cosas se ordenan, se alinean, todo se encamina."
+>>>>>>> e22c673a87b9f0b975937f8ae8c3acd30f225d6f
     },
     {
       "id": 3,
@@ -28,8 +38,13 @@
       "fecha": "2026-01-21",
       "archivo": "transcripciones/Episodio03.txt",
       "disponible": true,
+<<<<<<< HEAD
       "videoUrl": "https://youtu.be/HBQSpvE5MtQ?si=4h3eTg-LXhZ0Nt0y",
       "descripcion": ""
+=======
+      "videoUrl": "https://youtu.be/HBQSpvE5MtQ?si=BINtxPU-6zAPGnhw",
+      "descripcion": "Poner las cosas en el lugar que tienen que estar, restaurar el orden correcto en nuestras vidas."
+>>>>>>> e22c673a87b9f0b975937f8ae8c3acd30f225d6f
     },
     {
       "id": 4,
@@ -38,8 +53,13 @@
       "fecha": "2026-01-28",
       "archivo": "transcripciones/Episodio04.txt",
       "disponible": true,
+<<<<<<< HEAD
       "videoUrl": "https://youtu.be/WiH9IJcKWEA?si=5HqNyOaGY3cFuxU2",
       "descripcion": ""
+=======
+      "videoUrl": "https://youtu.be/WiH9IJcKWEA?si=2JXPl28dYfqFmR0u",
+      "descripcion": "El clamor que le corresponde a la iglesia: que se manifieste la forma de vida del reino de los cielos."
+>>>>>>> e22c673a87b9f0b975937f8ae8c3acd30f225d6f
     },
     {
       "id": 5,
@@ -47,9 +67,15 @@
       "titulo": "EL REINO COMO PRIORIDAD",
       "fecha": "2026-02-04",
       "archivo": "transcripciones/Episodio05.txt",
+<<<<<<< HEAD
       "disponible": false,
       "videoUrl": "https://youtu.be/xbKo1Mfzwe4?si=0Lx9kaX1Qt_bmXl6",
       "descripcion": ""
+=======
+      "disponible": true,
+      "videoUrl": "https://youtu.be/xbKo1Mfzwe4?si=JSDyXJTvnrF-9L2U",
+      "descripcion": "Breve descripción de este episodio."
+>>>>>>> e22c673a87b9f0b975937f8ae8c3acd30f225d6f
     }
   ]
 }
