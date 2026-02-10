@@ -29,10 +29,10 @@
     font-size: clamp(1.125rem, 2vw, 1.5rem);
     font-weight: var(--font-weight-regular);
     color: var(--color-accent);
-    line-height: var(--lh);
     max-width: 500px;
     margin: 0 auto var(--spacing-xl);
     text-wrap: balance;
+    line-height: 1.2;
 }
 
 .hero-cta {

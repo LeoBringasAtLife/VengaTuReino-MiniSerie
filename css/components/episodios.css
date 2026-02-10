@@ -116,6 +116,7 @@
 .episodio-page-title {
     font-size: var(--font-size-h1);
     margin-bottom: var(--spacing-sm);
+    line-height: 1;
 }
 
 .episodio-page-meta {
