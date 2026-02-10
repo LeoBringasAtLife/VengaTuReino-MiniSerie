@@ -22,16 +22,17 @@
     color: var(--color-primary);
     margin-bottom: var(--spacing-lg);
     letter-spacing: -0.03em;
-    line-height: 1.1;
+    line-height: var(--lh);
 }
 
 .hero-subtitle {
     font-size: clamp(1.125rem, 2vw, 1.5rem);
     font-weight: var(--font-weight-regular);
     color: var(--color-accent);
-    line-height: 1.6;
+    line-height: var(--lh);
     max-width: 500px;
     margin: 0 auto var(--spacing-xl);
+    text-wrap: balance;
 }
 
 .hero-cta {

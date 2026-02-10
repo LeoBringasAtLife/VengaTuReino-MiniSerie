@@ -6,14 +6,14 @@ Un sitio web para la miniserie de verano "Venga Tu Reino", dirigida por el Pasto
 
 Este sitio web está diseñado para presentar una miniserie que invita a una confrontación constante con la Palabra de Dios para alcanzar una genuina transformación de vida. La idea original fue concebida por **Leonardo Bringas**, quien trabajó en conjunto con inteligencia artificial (Claude Sonnet 4.5) para desarrollar este proyecto desde cero.
 
-El sitio permite navegar por los diferentes episodios, leer las transcripciones completas con timestamps (en realidad no va con timestamps, sino que ahora las transcrippciones estan en crudo), ver los videos embebidos de YouTube, y conocer más sobre la serie y el pastor que la dirige.
+El sitio permite navegar por los diferentes episodios, leer las transcripciones completas con timestamps (en realidad no va con timestamps, sino que ahora las transcrippciones estan en crudo), ver los videos embebidos en cada episodio individual, y conocer más sobre la serie y el pastor que la dirige.
 
 ## Características
 
 - **Navegación intuitiva**: Menú responsive que se adapta a dispositivos móviles y desktop
 - **Episodios dinámicos**: Los episodios se cargan desde un archivo JSON, facilitando la actualización del contenido
 - **Transcripciones formateadas**: Las transcripciones se procesan automáticamente y se formatean en párrafos legibles
-- **Videos embebidos**: Integración directa con YouTube para reproducir los videos de cada episodio
+- **Videos embebidos por episodio**: Cada episodio individual puede incluir un video embebido desde YouTube; ya no se muestra un listado global de videos en la página de episodios.
 - **Diseño responsive**: Funciona perfectamente en cualquier dispositivo
 - **Navegación entre episodios**: Enlaces para moverse entre episodios anteriores y siguientes
 

@@ -105,14 +105,5 @@
         gap: var(--spacing-md);
         align-items: flex-start;
     }
-    
-    .videos-section {
-        padding: var(--spacing-xl) var(--container-padding);
-        margin-top: var(--spacing-xl);
-    }
-    
-    .videos-grid {
-        grid-template-columns: 1fr;
-        gap: var(--spacing-lg);
-    }
+
 }

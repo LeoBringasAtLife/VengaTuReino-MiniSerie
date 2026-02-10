@@ -45,7 +45,7 @@
     color: #b62525;
     font-size: 1.125rem;
     margin-bottom: var(--spacing-lg);
-    line-height: 1.6;
+    line-height: var(--lh);
 }
 
 .btn-retry {
@@ -88,7 +88,7 @@
     color: var(--color-accent);
     font-size: 1.125rem;
     margin-bottom: var(--spacing-lg);
-    line-height: 1.6;
+    line-height: var(--lh);
 }
 
 .btn-volver {
@@ -135,16 +135,6 @@
     margin-bottom: var(--spacing-lg);
 }
 
-.skeleton-video {
-    width: 100%;
-    padding-bottom: 56.25%; /* 16:9 aspect */
-    position: relative;
-}
-
-.episodio-item,
-.video-item {
-    animation: fadeIn 0.3s ease-in;
-}
 
 @media (max-width: 768px) {
     .loading-container,
@@ -183,8 +173,7 @@
     .loading-spinner,
     .skeleton,
     .fade-in,
-    .episodio-item,
-    .video-item {
+    .episodio-item {
         animation: none;
     }
     

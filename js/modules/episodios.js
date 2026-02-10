@@ -16,7 +16,6 @@ async function cargarEpisodios() {
         episodiosData = data.episodios;
         return episodiosData;
     } catch (error) {
-        console.error('Error al cargar episodios:', error);
         return [];
     }
 }
@@ -28,11 +27,9 @@ async function cargarEpisodiosConReintento(intentos = 3, delay = 500) {
             await cargarEpisodios();
             
             if (episodiosData.length > 0) {
-                console.log(`✓ Episodios cargados exitosamente (${episodiosData.length} episodios)`);
                 return true;
             }
         } catch (error) {
-            console.warn(`Intento ${i + 1}/${intentos} falló:`, error);
             
             if (i < intentos - 1) {
                 await new Promise(resolve => setTimeout(resolve, delay));
@@ -40,7 +37,7 @@ async function cargarEpisodiosConReintento(intentos = 3, delay = 500) {
         }
     }
     
-    console.error('No se pudieron cargar los episodios después de varios intentos');
+        // No se pudieron cargar los episodios después de varios intentos
     return false;
 }
 
@@ -99,7 +96,14 @@ function formatearFecha(fecha) {
 function renderizarListaEpisodios(container, limite = null) {
     if (!container) return;
     
-    const episodios = limite ? episodiosData.slice(0, limite) : episodiosData;
+    let episodios;
+    if (limite) {
+        const start = Math.max(0, episodiosData.length - limite);
+        episodios = episodiosData.slice(start);
+        episodios = episodios.slice().reverse();
+    } else {
+        episodios = episodiosData;
+    }
     
     if (episodios.length === 0) {
         mostrarMensajeVacio(container);
@@ -111,6 +115,7 @@ function renderizarListaEpisodios(container, limite = null) {
         const estado = episodio.disponible ? 'disponible' : 'proximamente';
         const estadoTexto = episodio.disponible ? 'Disponible' : 'Próximamente';
         const enlace = episodio.disponible ? `episodio.html?id=${episodio.id}` : '#';
+        const descripcion = episodio.descripcion ? episodio.descripcion : '';
         
         return `
             <li class="episodio-item">
@@ -120,6 +125,7 @@ function renderizarListaEpisodios(container, limite = null) {
                         ${fecha ? `<span class="episodio-date">${fecha}</span>` : ''}
                     </div>
                     <h3 class="episodio-title">${episodio.titulo}</h3>
+                    ${descripcion ? `<p class="episodio-desc">${descripcion}</p>` : ''}
                     <span class="episodio-status ${estado}">${estadoTexto}</span>
                 </a>
             </li>
@@ -134,7 +140,6 @@ function renderizarListaEpisodios(container, limite = null) {
 async function cargarContenidoEpisodio(archivo) {
     // Verificar caché primero
     if (transcripcionesCache.has(archivo)) {
-        console.log('Transcripción cargada desde caché:', archivo);
         return transcripcionesCache.get(archivo);
     }
     
@@ -153,7 +158,6 @@ async function cargarContenidoEpisodio(archivo) {
         
         return resultado;
     } catch (error) {
-        console.error('Error al cargar contenido del episodio:', error);
         return { 
             contenido: '<p class="error-text">Error al cargar el contenido del episodio. Por favor, intenta nuevamente.</p>', 
             titulo: '' 
@@ -244,41 +248,9 @@ function generarYouTubeEmbed(videoUrl) {
     return `https://www.youtube.com/embed/${videoId}`;
 }
 
-// RENDERIZADO DE VIDEOS
-
-function renderizarVideos(container) {
-    if (!container) return;
-    
-    const episodiosConVideo = episodiosData.filter(e => e.videoUrl && e.videoUrl.trim() !== '');
-    
-    if (episodiosConVideo.length === 0) {
-        const videosSection = document.getElementById('videos-section');
-        if (videosSection) {
-            videosSection.style.display = 'none';
-        }
-        return;
-    }
-    
-    const html = episodiosConVideo.map(episodio => {
-        const embedUrl = generarYouTubeEmbed(episodio.videoUrl);
-        return `
-            <div class="video-item">
-                <div class="video-wrapper">
-                    <iframe 
-                        src="${embedUrl}" 
-                        frameborder="0" 
-                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-                        allowfullscreen
-                        loading="lazy"
-                        title="${episodio.titulo}">
-                    </iframe>
-                </div>
-            </div>
-        `;
-    }).join('');
-    
-    container.innerHTML = html;
-}
+// Nota: la sección/listado global de videos se eliminó. Los videos
+// permanecen únicamente embebidos dentro de la página individual
+// de cada episodio (renderizado por `renderizarEpisodio`).
 
 // RENDERIZADO DE EPISODIO INDIVIDUAL
 
@@ -366,15 +338,13 @@ document.addEventListener('DOMContentLoaded', async function() {
         
         cargando = true;
         
-        // Identificar contenedores
-        const listaContainer = document.getElementById('episodios-lista');
-        const videosContainer = document.getElementById('videos-grid');
-        const episodioContainer = document.getElementById('episodio-contenido');
-        
-        // Mostrar loading en los contenedores presentes
-        if (listaContainer) mostrarLoading(listaContainer);
-        if (videosContainer) mostrarLoading(videosContainer, 'Cargando videos...');
-        if (episodioContainer) mostrarLoading(episodioContainer);
+    // Identificar contenedores
+    const listaContainer = document.getElementById('episodios-lista');
+    const episodioContainer = document.getElementById('episodio-contenido');
+
+    // Mostrar loading en los contenedores presentes
+    if (listaContainer) mostrarLoading(listaContainer);
+    if (episodioContainer) mostrarLoading(episodioContainer);
         
         // Cargar episodios con reintentos
         const cargaExitosa = await cargarEpisodiosConReintento(3, 500);
@@ -387,14 +357,11 @@ document.addEventListener('DOMContentLoaded', async function() {
         if (listaContainer) {
             const limite = listaContainer.dataset.limite ? parseInt(listaContainer.dataset.limite) : null;
             renderizarListaEpisodios(listaContainer, limite);
-            console.log('Lista de episodios renderizada');
         }
         
-        // Renderizar videos (episodios.html)
-        if (videosContainer) {
-            renderizarVideos(videosContainer);
-            console.log('Videos renderizados');
-        }
+        // Nota: ya no renderizamos una sección separada de videos en la
+        // página de lista de episodios. Los videos se muestran únicamente
+        // dentro de la página individual de cada episodio.
         
         // Renderizar episodio individual (episodio.html)
         if (episodioContainer) {
@@ -403,7 +370,6 @@ document.addEventListener('DOMContentLoaded', async function() {
             
             if (episodioId) {
                 await renderizarEpisodio(episodioId, episodioContainer);
-                console.log('✓ Episodio individual renderizado');
             } else {
                 mostrarMensajeError(episodioContainer, 'No se especificó un episodio válido.');
             }
@@ -411,11 +377,10 @@ document.addEventListener('DOMContentLoaded', async function() {
 
         
     } catch (error) {
-        console.error('Error crítico en la inicialización:', error);
+    // Error crítico en la inicialización
         
         const containers = [
             document.getElementById('episodios-lista'),
-            document.getElementById('videos-grid'),
             document.getElementById('episodio-contenido')
         ];
         
