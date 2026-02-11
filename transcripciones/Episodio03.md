@@ -1,5 +1,3 @@
-Transcripción de 'Episodio 3' de "Venga Tu Reino" de Pastor Walter Escalante.
- 
 Y justamente de lo que de lo que estamos hablando en esta ya hoy episodio 3 de esta miniserie que surgió sobre "Venga Tu Reino", que tiene que ver un poquito con eso, con restaurar las cosas, poner las cosas en el lugar que tienen que estar en algunas situaciones, 'a veces en la experiencia personal que nosotros podamos tener, a veces con la costumbre, con el tiempo, con el andar diario en el Señor, con el caminar con Cristo', para decir alguna frase un poco más evangélica. 
 
 A veces nos vamos acostumbrando, nos vamos acomodando, nos vamos relajando, entendemos los

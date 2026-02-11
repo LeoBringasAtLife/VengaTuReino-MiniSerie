@@ -1,5 +1,3 @@
-Transcripción de "Episodio 4" de "Venga Tu Reino" de Pastor Walter Escalante. ["SERVIR CON RESPONSABILIDAD"]
-
 ¿De qué se trata? Por si usted no estuvo al tanto, no estuvo presente las anteriores, o más o menos de qué estamos hablando: que para alcanzar, para poder conectar con las cosas que Dios tiene para este año, un año que le cuento que viene movido, viene muy sacudido, no mal, sino bien sacudido, es esa clase de sacudidas que acomoda las cosas, esas sacudidas que acomodan las piezas y donde aunque en principio pareciera ser que todo se va mezclando, después empieza a ordenar, termina mejor.
 
 Así es como estamos ya trabajando en este año, en este enero. Como dije ayer, que nunca estuve tan activo, tan ocupado con tantas reuniones en un mes de enero, que siempre ha sido un mes tranqui. Incluso en la iglesia, bueno, este año ni siquiera fue así. Para poder tomar esto que es de la declaración con la que arrancamos este año: "Un año de renuevo, cambio de posición" y que termina con el broche de "tiempo de madurez". Para poder recibir la bendición de este renuevo y cambio de posición es necesario, es fundamental alcanzar esa madurez, es necesario madurar.

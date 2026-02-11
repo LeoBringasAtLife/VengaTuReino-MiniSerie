@@ -1,5 +1,3 @@
-Transcripción de 'Episodio 2' de "Venga Tu Reino" de Pastor Walter Escalante.
-
 Vamos a la palabra, a esto que se convirtió sin quererlo, porque no fue pensado así, no fue buscado de esa manera. Una miniserie de verano que durará unas tres o cuatro semanas más, no recuerdo exactamente, pero creo que son cuatro semanas más aproximadamente, sobre el tema con el cual desde mediados de diciembre o a principios de diciembre el Señor nos viene hablando y que tiene mucho que ver con estas mismas cosas que estamos escuchando, que estamos compartiendo, que estamos creyendo y declarando.
 
 Que cuando lo ponemos a él en primer lugar, ese fue básicamente el punto principal de la semana pasada y de hace dos semanas y de hace tres semanas que estuvimos hablando en esa dirección. Cuando lo ponemos a Dios en primer lugar, todas las cosas se ordenan, se alinean, todo se encamina. Reconocerlo a él en nuestros caminos es como que nos prepara un camino alisado, como si nos pusiera una alfombra para que nos encontremos con nuestro propósito, con el llamado, con lo que Dios quiera hacer con nosotros.

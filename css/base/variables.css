@@ -4,12 +4,14 @@
     /* Paleta de Colores */
     --color-primary: #1a1a1a;
     --color-secondary: #ffffff;
-    --color-accent: #4a5568;
+    --color-accent: #3c362e;
     --color-accent-light: #e2e8f0;
     --color-hover: #2d3748;
     
     /* Tipografías */
     --font-primary: 'Inter', sans-serif;
+    --font-secondary-episodios: sans-serif
+
     --font-weight-light: 300;
     --font-weight-regular: 400;
     --font-weight-medium: 500;

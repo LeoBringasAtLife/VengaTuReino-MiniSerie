@@ -138,7 +138,6 @@ function renderizarListaEpisodios(container, limite = null) {
 // CARGA Y PROCESAMIENTO DE TRANSCRIPCIONES
 
 async function cargarContenidoEpisodio(archivo) {
-    // Verificar caché primero
     if (transcripcionesCache.has(archivo)) {
         return transcripcionesCache.get(archivo);
     }
@@ -153,7 +152,6 @@ async function cargarContenidoEpisodio(archivo) {
         const texto = await response.text();
         const resultado = procesarTranscripcion(texto);
         
-        // Guardar en caché
         transcripcionesCache.set(archivo, resultado);
         
         return resultado;
@@ -167,58 +165,22 @@ async function cargarContenidoEpisodio(archivo) {
 
 function procesarTranscripcion(texto) {
     if (!texto) return { contenido: '', titulo: '' };
-    
-    const lineas = texto.split('\n');
-    let titulo = '';
-    let contenidoInicio = 0;
-    
-    if (lineas.length > 0 && lineas[0].trim().includes('Transcripción')) {
-        titulo = lineas[0].trim();
-        contenidoInicio = 1;
 
-        if (lineas[1] && !lineas[1].trim()) {
-            contenidoInicio = 2;
-        }
-    }
-    
-    let contenidoHTML = '';
-    let parrafoActual = '';
-    let timestampActual = '';
-    
-    for (let i = contenidoInicio; i < lineas.length; i++) {
-        const linea = lineas[i];
-        const lineaTrim = linea.trim();
-        
-        const timestampMatch = lineaTrim.match(/^(\d+:\d+)$/);
-        
-        if (timestampMatch) {
-            if (parrafoActual) {
-                contenidoHTML += `<p>${parrafoActual}</p>`;
-                parrafoActual = '';
-            }
-            timestampActual = timestampMatch[1];
-        } else if (lineaTrim) {
-            if (parrafoActual) {
-                parrafoActual += ' ';
-            }
-            // Agregar timestamp si existe
-            if (timestampActual) {
-                parrafoActual += `<span class="episodio-timestamp">[${timestampActual}]</span> `;
-                timestampActual = '';
-            }
-            parrafoActual += lineaTrim;
-        } else if (parrafoActual) {
-            contenidoHTML += `<p>${parrafoActual}</p>`;
-            parrafoActual = '';
-            timestampActual = '';
-        }
+    // Si Marked está disponible, usamos Markdown completo
+    let contenidoHTML;
+    if (typeof marked !== 'undefined' && typeof marked.parse === 'function') {
+        contenidoHTML = marked.parse(texto);
+    } else {
+        // Fallback sencillo a párrafos si por alguna razón Marked no cargó
+        contenidoHTML = texto
+            .split('\n')
+            .map(linea => linea.trim())
+            .filter(linea => linea.length > 0)
+            .map(linea => `<p>${linea}</p>`)
+            .join('');
     }
 
-    if (parrafoActual) {
-        contenidoHTML += `<p>${parrafoActual}</p>`;
-    }
-
-    return { contenido: contenidoHTML, titulo };
+    return { contenido: contenidoHTML, titulo: 'Transcripción' };
 }
 
 // MANEJO DE VIDEOS DE YOUTUBE
@@ -243,8 +205,7 @@ function generarYouTubeEmbed(videoUrl) {
     if (!videoUrl) return '';
     const videoId = extraerVideoId(videoUrl);
     if (!videoId) return '';
-    
-    // Agregar parámetros para mejor rendimiento
+
     return `https://www.youtube.com/embed/${videoId}`;
 }
 
@@ -328,8 +289,6 @@ async function renderizarEpisodio(episodioId, container) {
     window.scrollTo(0, 0);
 }
 
-// INICIALIZACIÓN
-
 document.addEventListener('DOMContentLoaded', async function() {
     try {
         if (cargando) {
@@ -376,9 +335,7 @@ document.addEventListener('DOMContentLoaded', async function() {
         }
 
         
-    } catch (error) {
-    // Error crítico en la inicialización
-        
+    } catch (error) {        
         const containers = [
             document.getElementById('episodios-lista'),
             document.getElementById('episodio-contenido')
