@@ -1,4 +1,6 @@
-# Venga Tu Reino - Miniserie
+## README.md no actualizado
+
+### Venga Tu Reino - Miniserie
 
 Un sitio web para la miniserie de verano "Venga Tu Reino", dirigida por el Pastor Walter Escalante. Este proyecto nació de la idea de crear una plataforma donde las personas puedan acceder fácilmente a los episodios, sus transcripciones y videos de manera organizada y accesible.
 
