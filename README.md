@@ -1,6 +1,4 @@
-## README.md no actualizado
-
-### Venga Tu Reino - Miniserie
+# Venga Tu Reino - Miniserie
 
 Sitio web estático de la miniserie **"Venga Tu Reino"**, con listado de episodios, página individual por episodio, transcripciones en Markdown y video de YouTube embebido por episodio.
 
