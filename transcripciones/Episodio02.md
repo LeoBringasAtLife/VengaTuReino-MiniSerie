@@ -1,30 +1,36 @@
-Vamos a la palabra, a esto que se convirtió sin quererlo, porque no fue pensado así, no fue buscado de esa manera. Una miniserie de verano que durará unas tres o cuatro semanas más, no recuerdo exactamente, pero creo que son cuatro semanas más aproximadamente, sobre el tema con el cual desde mediados de diciembre o a principios de diciembre el Señor nos viene hablando y que tiene mucho que ver con estas mismas cosas que estamos escuchando, que estamos compartiendo, que estamos creyendo y declarando.
+Vamos a la palabra, a esto que se convirtió sin quererlo, porque no fue pensado así, no fue buscado de esa manera. Una miniserie de verano que durará unas 3 o 4 semanas más, no recuerdo exactamente, pero creo que son 4 semanas más aproximadamente, sobre el tema con el cual desde mediados de diciembre o a principios de diciembre el Señor nos viene hablando y que tiene mucho que ver con estas mismas cosas que estamos escuchando, que estamos compartiendo, que estamos creyendo y declarando.
 
 Que cuando lo ponemos a él en primer lugar, ese fue básicamente el punto principal de la semana pasada y de hace dos semanas y de hace tres semanas que estuvimos hablando en esa dirección. Cuando lo ponemos a Dios en primer lugar, todas las cosas se ordenan, se alinean, todo se encamina. Reconocerlo a él en nuestros caminos es como que nos prepara un camino alisado, como si nos pusiera una alfombra para que nos encontremos con nuestro propósito, con el llamado, con lo que Dios quiera hacer con nosotros.
 
-Lo que pasa que somos gente complicada, somos duros de entendederas, dirían algunos por ahí, somos cabezones y tercos e insistimos siempre en querer hacer las cosas a nuestra manera. Como decía hoy, que ya es algo que lo digo muchas veces habitualmente, fuimos creados con capacidad de gobierno, lo que implica directamente entre líneas o no, que no nos gusta que nos digan lo que tenemos que hacer, no nos gusta que alguien tome decisiones por nosotros, no nos gusta que se nos dirija, que se nos corrija, sino que cada uno de nosotros nos gusta, y dígame si miento, nos gusta hacer las cosas a nuestra manera y nada más que eso.
+Lo que pasa que somos gente complicada, somos duros de entendederas, dirían algunos por ahí, somos cabezones y tercos e insistimos siempre en querer hacer las cosas a nuestra manera. Como decía hoy, que ya es algo que lo digo muchas veces habitualmente, «fuimos creados con capacidad de gobierno», lo que implica directamente entre líneas o no, que no nos gusta que nos digan lo que tenemos que hacer, no nos gusta que alguien tome decisiones por nosotros, no nos gusta que se nos dirija, que se nos corrija, sino que cada uno de nosotros nos gusta, y dígame si miento, «nos gusta hacer las cosas a nuestra manera» y nada más que eso.
 
-Eso es bueno porque eso nos posiciona, eso hace que seamos, por ejemplo, competitivos, que tengamos una idea, una intención de avance, de conquista, de alcanzar. Por eso mismo queremos progresar, por eso mismo nos enfocamos en estar mejor que antes y mejor que nosotros mismos. Hasta ahí está bien. Y esa es la razón de por qué Dios puso eso en nosotros, nos dio esa capacidad, nos dio esa unción, nos dio ese don para poder crear, para poder dirigir, para poder gobernar. Le dijo a Adán y posteriormente a Eva que ellos iban a gobernar toda la creación completamente. Hasta ahí bien.
+Eso es bueno porque eso nos posiciona, eso hace que seamos, por ejemplo, competitivos, que tengamos una idea, una intención de avance, de conquista, de alcanzar. Por eso mismo queremos progresar, por eso mismo nos enfocamos en estar mejor que antes y mejor que nosotros mismos. Hasta ahí está bien. Y esa es la razón de por qué Dios puso eso en nosotros, nos dio esa capacidad, nos dio esa unción, nos dio ese don para poder crear, para poder dirigir, para poder gobernar. Le dijo [Dios] a Adán y posteriormente a Eva que "ellos iban a gobernar toda la creación completamente" (Génesis 1:28). Hasta ahí bien.
 
 Pero cuando lo hacemos de esa manera y sacamos a Dios del primer lugar, entonces entramos en el caos, en el caos en el que vivimos. Y que fue lo que originó en el principio de los tiempos que Dios tuviera que hacer un plan alternativo. Y el plan alternativo era la salvación en Cristo por una humanidad que se estaba perdiendo, caminando derechito al infierno.
 
-En el tiempo que estábamos tomando las palabras de Jesús, y esto fue más o menos muy poquito de lo que hablamos el miércoles pasado, dice Mateo capítulo 6, versículo 10: "Venga tu reino, hágase tu voluntad en la tierra como en el cielo", que es parte de la oración del Padre Nuestro. Cuando los discípulos le dicen a Jesús: "Señor, enséñanos a orar", él les dice un montón de puntos, de ítems de cómo debe ser nuestra oración, cómo tiene que estar dirigida, qué tenemos que hacer énfasis. Y en uno de los, prácticamente en el medio tirando hacia el final, dice: "Venga tu reino".
+En el tiempo que estábamos tomando las palabras de Jesús, y esto fue más o menos muy poquito de lo que hablamos el miércoles pasado, dice Mateo 6:10: *"Venga tu reino, hágase tu voluntad en la tierra como en el cielo"*, que es parte de la oración del Padre Nuestro. Cuando los discípulos le dicen a Jesús: *"Señor, enséñanos a orar"*, él les dice un montón de puntos, de ítems de cómo debe ser nuestra oración, cómo tiene que estar dirigida, qué tenemos que hacer énfasis. Y en uno de los, prácticamente en el medio tirando hacia el final, dice: *"Venga tu reino"*. (v.10).
 
-Que tiene que ser una oración, que tiene que ser un clamor, que tiene que ser la función para la que estamos en este lugar desde la tierra, con los pies en la tierra, con nuestra vida diaria, haciendo nuestras actividades normales desde acá, siendo iglesia, entendiendo la posición de iglesia. Por eso hablaba también el otro día respecto del propósito, entendiendo la posición de iglesia desde acá, clamar, decirle al Señor: "Venga tu reino".
+Que tiene que ser una oración, que tiene que ser un clamor, que tiene que ser la función para la que estamos en este lugar desde la tierra, con los pies en la tierra, con nuestra vida diaria, haciendo nuestras actividades normales desde acá, siendo iglesia, entendiendo la posición de iglesia. Por eso hablaba también el otro día respecto del propósito, entendiendo la posición de iglesia desde acá, clamar, decirle al Señor: *"Venga tu reino"*.
 
-Un concepto espiritual que nos enseña que la iglesia, cuando está enfocada en su posición espiritual, la iglesia es la que hace que se manifieste la voluntad y la obra de Dios en el lugar donde estamos. Por eso digo, insisto, que solamente la iglesia, no me refiero a una institución ni a las paredes de un templo, sino la iglesia como entidad espiritual, solamente la iglesia tiene el poder de transformar. Los testimonios que escuchamos son el ejercicio de la iglesia activa, de la iglesia haciendo. Cuando hablo de iglesia, no digo Iglesia Restauración, sino digo la entidad cristiana que reúne a todos los creyentes que se juntan para adorar a Dios, que tienen a Cristo en el corazón y por sobre todo que hacen lo que tienen que hacer: es ejercer su posición y su función para alumbrar, para decir a los demás, como hablaba con Óscar, "se puede vivir de otra manera".
+Un concepto espiritual que nos enseña que la Iglesia, cuando está enfocada en su posición espiritual, la iglesia es la que hace que se manifieste la voluntad y la obra de Dios en el lugar donde estamos. Por eso digo, insisto, que solamente la iglesia, no me refiero a una institución ni a las paredes de un templo, sino la iglesia como entidad espiritual, solamente la iglesia tiene el poder de transformar.
 
-Decía la parte de la declaración de este año, año 2026, y me importa resaltarlo porque es vital conectar esto con "Venga tu reino". Decía los dos puntos finales: "Año del evangelismo espiritual, un evangelismo que transforma; año de renuevo, cambio de posición", y termina con el broche sobre eso: "tiempo de madurez".
+Los testimonios que escuchamos son el ejercicio de la iglesia activa, de la iglesia haciendo. Cuando hablo de iglesia, no digo **Iglesia Restauración**, sino digo la entidad cristiana que reúne a todos los creyentes que se juntan para adorar a Dios, que tienen a Cristo en el corazón y por sobre todo que hacen lo que tienen que hacer: *es ejercer su posición y su función para alumbrar, para decir a los demás, como hablaba con Óscar, "se puede vivir de otra manera"*.
 
-En definitiva, el punto es que para poder experimentar ese renuevo en nuestra vida, salir tal vez de situaciones de cansancio, situaciones de agotamiento, dejar atrás cosas que no tenían ni rumbo ni salida, estar metidos en círculos ahí constantes, círculos de fracaso o círculos de miseria o sin ver un futuro, sin tener un lugar al cual avanzar, renovarnos en eso. La manera entonces de cambiar de posición, de dejar atrás el lugar donde estábamos, la visión que teníamos, de creer que no alcanzábamos, de creer que no se podía, cambio de posición a una posición espiritual más alta. Eso es lo que Dios tiene para nosotros. Una posición espiritual más alta para poder experimentar esas dos cosas, renuevo y cambio de posición, es fundamental madurar.
+Decía la parte de la declaración de este año, año 2026, y me importa resaltarlo porque es vital conectar esto con "Venga tu reino". Decía los dos puntos finales: **"Año del Evangelismo Espiritual, un Evangelismo que Transforma; Año de Renuevo, Cambio de Posición"**, y termina con el broche sobre eso: **"Tiempo de Madurez"**.
 
-Y el madurar tiene que ver con entender mi lugar, ejercer mi lugar, pararme delante de Dios y decirle al Señor: "Venga a nosotros tu reino".
+En definitiva, el punto es que para poder experimentar ese renuevo en nuestra vida, salir tal vez de situaciones de cansancio, situaciones de agotamiento, dejar atrás cosas que no tenían ni rumbo ni salida, estar metidos en círculos ahí constantes, círculos de fracaso o círculos de miseria o sin ver un futuro, sin tener un lugar al cual avanzar, renovarnos en eso.
+
+La manera entonces de cambiar de posición, de dejar atrás el lugar donde estábamos, la visión que teníamos, de creer que no alcanzábamos, de creer que no se podía, cambio de posición a una posición espiritual más alta. Eso es lo que Dios tiene para nosotros. Una posición espiritual más alta para poder experimentar esas dos cosas, *"Renuevo y Cambio de Posición*, es fundamental madurar.
+
+Y madurar tiene que ver con entender mi lugar, ejercer mi lugar, pararme delante de Dios y decirle al Señor: *"Venga a nosotros tu reino"*.
 
 La iglesia no está exenta de los males de la humanidad, porque la iglesia, le cuento, está hecha de gente, y la gente normalmente no piensa en el otro, no piensa en el más allá, no piensa en el plano general, mucho menos pensar en lo que a Dios le interese, sino que la gente piensa en... no lo diga usted, lo digo yo para que no se comprometa: la gente piensa solamente en sí misma, en sus problemas, en sus necesidades, en sus crisis, en sus dificultades. ¿En qué puede obtener? ¿En qué puede ganar? ¿Dónde puedo hacer la diferencia? ¿Dónde puedo sacar un manguito más? En definitiva, beneficio propio es la parte humana.
 
-Madurez implica pararnos delante del Señor y decirle a él: "Venga tu reino, hágase tu voluntad, que las cosas en la tierra funcionen como funcionan en el cielo, porque él es el que reina, el que gobierna sobre todas las cosas".
+Madurez implica pararnos delante del Señor y decirle a él: *"Venga tu reino, hágase tu voluntad, que las cosas en la tierra funcionen como funcionan en el cielo, porque él es el que reina, el que gobierna sobre todas las cosas"*.
 
-Decía que decir "venga tu reino" es una declaración de orden que implica que las cosas no funcionen a mi manera sino a la manera de Dios. Que venga el reino de Dios no es sumar a Dios a mi vida. Ese es el punto central en esta noche. Que venga tu reino no significa que Dios se acople a mi plan. Que venga tu reino no quiere decir que Dios esté al lado mío y juntos vamos para un mismo lado, aunque siempre lo decimos de esa manera. Venga tu reino significa que en vez de sumarse a mi plan, Dios viene a reemplazar mi plan.
+Decía que decir "venga tu reino" es una declaración de orden que implica que las cosas no funcionen a mi manera sino a la manera de Dios.
+
+Que venga el reino de Dios no es sumar a Dios a mi vida. Ese es el punto central en esta noche. Que venga tu reino no significa que Dios se acople a mi plan. Que venga tu reino no quiere decir que Dios esté al lado mío y juntos vamos para un mismo lado, aunque siempre lo decimos de esa manera. Venga tu reino significa que en vez de sumarse a mi plan, Dios viene a reemplazar mi plan.
 
 Y acá ya vienen los conflictos y acá ya me quiero levantar, me quiero ir, porque yo quiero hacer las cosas a mi manera. Pero cuando entendemos el principio espiritual, cómo funciona, y cuando entendemos que si nos ponemos en manos de Dios, como bien y se lo robo otra vez, decía Óscar, "tantos años queriendo salir de esta situación que era agobiante y que no podía y que me daba cuenta, pero no podía salir, que había problemas en mi casa y que mi testimonio para mi hijo y esto y esto y esto", que tal vez usted lo vivió con otras cosas o con la misma situación o lo pudo ver en otro o lo que sea, y sencillamente, solamente por abrir el corazón al Señor. No lo estoy minimizando ni estoy diciendo que sea poca cosa, pero con el solo hecho de abrir tu corazón a Dios, dejar que él entre a tu corazón y que él empiece a reinar, que él empiece a gobernar en tu corazón y tu vida, todo el resto se empieza a ordenar.
 
@@ -32,9 +38,9 @@ Es que el principio de "venga tu reino" tiene que ver con romper con la lógica 
 
 Pero la lógica del reino es al revés. La lógica del reino dice: "Primero Dios, y todo lo demás se acomoda". La lógica del reino dice: "Dios no espera, Dios va primero, y lo demás se ordena después". La lógica del reino dice: "No cuando puedas, ahora, hoy, ya".
 
-Por eso Jesús dice en Mateo 6:33: "Mas buscad primeramente el reino de Dios y su justicia, y todas estas cosas os serán añadidas". Primeramente. No "cuando puedas", no "si te sobra tiempo", no "si te sale bien", primeramente. Primero. Antes que cualquier otra cosa.
+Por eso Jesús dice en Mateo 6:33: *"Mas buscad primeramente el reino de Dios y su justicia, y todas estas cosas os serán añadidas"*. Primeramente. No "cuando puedas", no "si te sobra tiempo", no "si te sale bien", **Primeramente**. Primero. Antes que cualquier otra cosa.
 
-Y acá viene el problema, porque nosotros queremos tener todo bajo control. Queremos saber cómo va a terminar la historia antes de empezarla. Queremos tener el plan completo antes de dar el primer paso. Queremos la garantía antes de arriesgar. Y Dios te dice: "Confía en mí. Pon tu vida en mis manos. Déjame gobernar. Venga mi reino a tu vida".
+Y acá viene el problema, porque nosotros queremos tener todo bajo control. Queremos saber cómo va a terminar la historia antes de empezarla. Queremos tener el plan completo antes de dar el primer paso. Queremos la garantía antes de arriesgar. Y Dios te dice: *"Confía en mí. Pone tu vida en mis manos. Déjame gobernar. Venga mi reino a tu vida"*.
 
 ¿Y qué pasa cuando Dios reina en tu vida? Bueno, ahí es donde la cosa se pone interesante. Porque cuando Dios reina, las prioridades cambian. Cuando Dios reina, los valores cambian. Cuando Dios reina, la manera de pensar cambia. Cuando Dios reina, la manera de actuar cambia.
 
@@ -42,13 +48,18 @@ Es que "venga tu reino" es una revolución. Es un cambio radical. No es un ajust
 
 Y cuando él está en el trono, todo se ordena. Porque él sabe lo que hace. Porque él tiene el plan. Porque él ve lo que yo no veo. Porque él conoce el futuro. Porque él tiene el poder. Porque él tiene los recursos. Porque él tiene la sabiduría.
 
-Mateo 6:10 dice: "Venga tu reino, hágase tu voluntad, como en el cielo, así también en la tierra". ¿Cómo funciona el cielo? En el cielo no hay discusión. En el cielo no hay debate. En el cielo no hay negociación. En el cielo, cuando Dios dice algo, se hace. Punto. No se cuestiona. No se analiza. No se pone en duda. Se hace.
+Mateo 6:10 dice: *"Venga tu reino, hágase tu voluntad, como en el cielo, así también en la tierra"*.
+
+¿Cómo funciona el cielo?
+En el cielo no hay discusión. En el cielo no hay debate. En el cielo no hay negociación. En el cielo, cuando Dios dice algo, se hace. Punto. No se cuestiona. No se analiza. No se pone en duda. Se hace.
 
 Y Jesús nos está enseñando a orar para que eso mismo pase en la tierra. Para que en tu vida, cuando Dios diga algo, vos lo hagas. No lo cuestiones. No lo analices hasta el cansancio. No lo pongas en duda. Lo hacés. Porque confiás en él. Porque sabés que él sabe lo que hace. Porque sabés que él tiene lo mejor para vos.
 
 Ahora, ¿cómo se ve eso en la práctica? Porque una cosa es hablar de "venga tu reino" y otra cosa es vivirlo. Una cosa es decirlo en la oración y otra cosa es aplicarlo en la vida diaria. Entonces, ¿cómo se ve "venga tu reino" en tu vida práctica?
 
-Primero, buscar primero el reino de Dios. ¿Qué significa eso? Significa que en tus decisiones, lo primero que preguntás es: "¿Qué quiere Dios?" No "¿qué me conviene?", no "¿qué me gusta?", no "¿qué quiero yo?", sino "¿qué quiere Dios?". Y cuando sabés lo que Dios quiere, lo hacés. Aunque no te guste. Aunque no te convenga. Aunque no lo entiendas.
+1. BUSCAR PRIMERO EL REINO DE DIOS.
+
+¿Qué significa eso? Significa que en tus decisiones, lo primero que preguntás es: "¿Qué quiere Dios?" No "¿qué me conviene?", no "¿qué me gusta?", no "¿qué quiero yo?", sino "¿qué quiere Dios?". Y cuando sabés lo que Dios quiere, lo hacés. Aunque no te guste. Aunque no te convenga. Aunque no lo entiendas.
 
 Buscar primero el reino es poner a Dios en primer lugar en tu tiempo. Es darle a Dios lo mejor de tu día, no las sobras. Es darle a Dios tu energía, no tu cansancio. Es darle a Dios tu atención, no tu distracción.
 
@@ -60,33 +71,43 @@ Buscar primero el reino es poner a Dios en primer lugar en tu trabajo. Es trabaj
 
 Buscar primero el reino es poner a Dios en primer lugar en tu familia. Es orar por tu familia antes que quejarte de tu familia. Es bendecir a tu familia antes que criticar a tu familia. Es servir a tu familia antes que exigirle a tu familia.
 
-Eso es buscar primero el reino. Y cuando buscás primero el reino, dice Jesús, todas las demás cosas te serán añadidas. No dice "algunas cosas", dice "todas las demás cosas". Todo lo que necesitás, Dios te lo va a dar. No necesariamente todo lo que querés, pero sí todo lo que necesitás.
+Eso es buscar primero el reino. Y cuando buscás primero el reino, dice Jesús, *"todas las demás cosas te serán añadidas* (Mateo 6:33). No dice "algunas cosas", dice "todas las demás cosas". Todo lo que necesitás, Dios te lo va a dar. No necesariamente todo lo que querés, pero sí todo lo que necesitás.
 
 Porque cuando Dios reina en tu vida, él se encarga de proveerte. Cuando Dios reina en tu vida, él se encarga de cuidarte. Cuando Dios reina en tu vida, él se encarga de guiarte. Cuando Dios reina en tu vida, él se encarga de protegerte. Cuando Dios reina en tu vida, él se encarga de bendecirte.
 
 Pero tenés que dejarlo reinar. Tenés que sacarte del trono. Tenés que renunciar a tu reino. Tenés que entregarle el control. Tenés que confiar en él. Tenés que obedecerle. Tenés que seguirlo.
 
-Y acá viene la segunda cosa: manifestar el fruto del Espíritu. Porque una cosa es decir "venga tu reino" y otra cosa es que se vea que el reino vino. ¿Cómo se ve que el reino vino a tu vida? Por el fruto. Por lo que se ve en vos.
+2. MANIFESTAR EL FRUTO DEL ESPÍRITU.
 
-Gálatas 5:22-23 dice: "Mas el fruto del Espíritu es amor, gozo, paz, paciencia, benignidad, bondad, fe, mansedumbre, templanza". Eso es lo que tiene que verse en tu vida. No conocimiento bíblico, aunque es importante. No dones espirituales, aunque son necesarios. No actividad religiosa, aunque tiene su lugar. Sino fruto. Carácter. Transformación.
+Porque una cosa es decir "venga tu reino" y otra cosa es que se vea que el reino vino.
 
-Porque podés saber toda la Biblia de memoria y no tener amor. Podés profetizar y no tener gozo. Podés echar fuera demonios y no tener paz. Podés hablar en lenguas y no tener paciencia. Podés hacer milagros y no tener benignidad. Podés enseñar y no tener bondad. Podés predicar y no tener fe. Podés dirigir y no tener mansedumbre. Podés servir y no tener templanza.
+¿Cómo se ve que el reino vino a tu vida? Por el fruto. Por lo que se ve en vos.
+
+Gálatas 5:22-23 (RVR1960): "*Mas el fruto del Espíritu es amor, gozo, paz, paciencia, benignidad, bondad, fe, mansedumbre, templanza"*.
+
+Eso es lo que tiene que verse en tu vida. No conocimiento bíblico, aunque es importante. No dones espirituales, aunque son necesarios. No actividad religiosa, aunque tiene su lugar. Sino fruto. Carácter. Transformación.
+
+Porque podés saber toda la Biblia de memoria y no tener **amor**. Podés profetizar y no tener **gozo**. Podés echar fuera demonios y no tener **paz**. Podés hablar en lenguas y no tener **paciencia**. Podés hacer milagros y no tener **benignidad**. Podés enseñar y no tener **bondad**. Podés predicar y no tener **fe**. Podés dirigir y no tener **mansedumbre**. Podés servir y no tener **templanza**.
 
 Y si no tenés el fruto, tu cristianismo es vacío. Es religión, no es relación. Es forma, no es poder. Es apariencia, no es realidad.
 
-Por eso Jesús dice en Mateo 5:16: "Así alumbre vuestra luz delante de los hombres, para que vean vuestras buenas obras, y glorifiquen a vuestro Padre que está en los cielos". Vuestras buenas obras. No vuestras palabras. No vuestros conocimientos. No vuestros cargos. Vuestras buenas obras.
+Por eso Jesús dice en Mateo 5:16: "*Así alumbre vuestra luz delante de los hombres, para que vean vuestras buenas obras, y glorifiquen a vuestro Padre que está en los cielos*". Vuestras buenas obras. No vuestras palabras. No vuestros conocimientos. No vuestros cargos. "*Vuestras buenas obras*".
 
 Que la gente te vea y diga: "Este es diferente. Este tiene algo que yo no tengo. Este vive de otra manera. Este tiene paz en medio de la crisis. Este tiene gozo en medio del dolor. Este tiene amor en medio del conflicto. Este tiene paciencia cuando todos pierden la cabeza. Este tiene bondad cuando todos son egoístas".
 
 Y cuando vean tus buenas obras, van a glorificar a tu Padre que está en los cielos. No a vos. A tu Padre. Porque van a darse cuenta de que lo que vos tenés no es tuyo, es de Dios. Que lo que vos sos no es por vos, es por Dios. Que lo que vos hacés no es con tus fuerzas, es con el poder de Dios.
 
-Tercero, acumular tesoros en el cielo. Usar nuestros recursos para beneficio del reino, en la tierra y en el cielo. Tu tiempo, tu dinero, tus capacidades, tu conocimiento, tus influencias, ponerlo al servicio de Dios.
+3. ACUMULAR TESOROS EN EL CIELO.
 
-Porque en el reino de los cielos todo gira alrededor de la siembra y la cosecha. Dice Proverbios que lo que usted se guarda no sirve, pero que al que da le será añadido más. Que el que da, el que es generoso, será bendecido y prosperado. Dice la palabra del Señor, dijo Jesús, que es más bienaventurado dar que recibir. Y otra vez, todo lo que se siembra se cosecha.
+Usar nuestros recursos para beneficio del reino, en la tierra y en el cielo. Tu tiempo, tu dinero, tus capacidades, tu conocimiento, tus influencias, ponerlo al servicio de Dios.
+
+Porque en 'el reino de los cielos todo gira alrededor de la siembra y la cosecha'. Dice Proverbios que lo que usted se guarda no sirve, pero que al que da le será añadido más. Que el que da, el que es generoso, será bendecido y prosperado. Dice la Palabra de Dios, dijo Jesús, 'que es más bienaventurado dar que recibir'. Y otra vez, 'todo lo que se siembra se cosecha'.
 
 No guarde, no amarroque, no sea tío rico, no sea chanta. Dele a Dios tiempo, servicio, adoración, dinero, poniendo sus recursos para que sean útiles para la obra de Dios, buscando primeramente el reino de Dios y su justicia, y todo lo demás será bendecido.
 
-Cuarto, ganar almas para el Señor. No como un número anotando ahí, como antiguamente se anotaban, hacían las marquitas en el revólver. ¿Vio? "¿A cuántos bajaste ya?" No, no. "Ah, yo ya tengo ganados tantos". Yo viví la época esa en la que uno iba contando cuántas perlas iba a tener en el cielo, en la que, como le decían, "cuanta más gente vos prediques y se convierta" —se tiene que convertir, ¿eh? Si no se convierte, no. Si se convierte, entonces es una perla que va a tu corona en el cielo—. Entonces la gente salía a predicar, no por amor al perdido, la gente salía a predicar por perlas en la corona. Importaba un cuerno la persona, nada. Lo que le importaba era únicamente que tuviera un beneficio para sí mismo.
+4. GANAR ALMAS PARA EL SEÑOR.
+
+No como un número anotando ahí, como antiguamente se anotaban, hacían las marquitas en el revólver. ¿Vio? "¿A cuántos bajaste ya?" No, no. "Ah, yo ya tengo ganados tantos". Yo viví la época esa en la que uno iba contando cuántas perlas iba a tener en el cielo, en la que, como le decían, "cuanta más gente vos prediques y se convierta" —se tiene que convertir, ¿eh? Si no se convierte, no. Si se convierte, entonces es una perla que va a tu corona en el cielo—. Entonces la gente salía a predicar, no por amor al perdido, la gente salía a predicar por perlas en la corona. Importaba un cuerno la persona, nada. Lo que le importaba era únicamente que tuviera un beneficio para sí mismo.
 
 Bueno, no es así. Ganar almas, o sea, alcanzar personas para Cristo, no es por un beneficio personal. A mí no me beneficia si lo hago por beneficio, porque dice la palabra de Dios que todas mis obras serán pasadas por fuego y aquellas que fueron edificadas sobre mí, dice, "mis obras que fueron edificadas sobre mí se van a quemar, quedan cenizas, desaparecen, no va a quedar nada". Entonces, si vos lo hiciste pensando: "Ah, esta es una para mí, sí, en el cielo voy a tener una habitación más grande. Capaz que el Señor me da, inclusive, capaz que tengo jacuzzi en la habitación del cielo". Eso va a desaparecer, pero lo que vos hiciste edificado en él, eso permanece.
 
@@ -94,14 +115,25 @@ Entonces, por lo tanto, poniendo todo esto en el Señor, ganando almas por las a
 
 Pónganse en pie, por favor.
 
-No como número, no como mérito espiritual, sino como personas que valen una eternidad. Mateo 6:21: "Donde esté tu tesoro, allí estará también tu corazón". No dejamos de vivir en la tierra, vivimos desde otra perspectiva. El reino no nos saca de la realidad, sino que nos da una realidad más grande.
+No como número, no como mérito espiritual, sino como personas que valen una eternidad.
 
-Decía a los líderes, le dije esto, no lo hablé en la iglesia todavía, o no que yo recuerde antes de fin de año. Y uno de los puntos importantes para este año tiene que ver con tener una visión panorámica. La visión panorámica me saca del foco, no pone el foco en mí ni en el lugar donde yo estoy. Visión panorámica amplía el foco y agranda el ángulo de exposición. Por lo tanto, miro más allá y más allá.
+Mateo 6:21: "*Donde esté tu tesoro, allí estará también tu corazón*".
+
+No dejamos de vivir en la tierra, vivimos desde otra perspectiva. El reino no nos saca de la realidad, sino que nos da una realidad más grande.
+
+Les decía a los líderes, le dije esto... Y uno de los puntos importantes para este año tiene que ver con tener una visión panorámica.
+
+La visión panorámica me saca del foco, no pone el foco en mí ni en el lugar donde yo estoy. Visión panorámica amplía el foco y agranda el ángulo de exposición. Por lo tanto, miro más allá y más allá.
 
 No soy yo, sino es todo lo demás. No es mi día de hoy, es todo lo que puedo alcanzar. No es simplemente el beneficio del día, es cuántos puedo llegar a alcanzar. Una visión panorámica para poder alcanzar lo que Dios tiene para nosotros y el lugar que Dios tiene para mí.
 
 Entonces dije, tengo que preguntar: ¿qué tesoros estás acumulando? ¿Y dónde los estás acumulando?
 
-Hay una cajita de seguridad en el cielo que tiene tu nombre. O sería más lindo que haya una casita, una cajita de seguridad con tu nombre. ¿Tiene algo o está vacía? ¿O tus tesoros están únicamente en tus placeres, tus deseos, tus gustos, en tus salidas, en tus vacaciones, en tus viajes, en tu ropa, en tus dólares, en tu dinero, en tus, qué sé yo, en tus juntadas, en tus trasnochadas, nada más?
+Hay una cajita de seguridad en el cielo que tiene tu nombre. O sería más lindo que haya una casita, una cajita de seguridad con tu nombre.
+
+¿Tiene algo o está vacía?
+¿O tus tesoros están únicamente en tus placeres, tus deseos, tus gustos, en tus salidas, en tus vacaciones, en tus viajes, en tu ropa, en tus dólares, en tu dinero, en tus, qué sé yo, en tus juntadas, en tus trasnochadas, nada más?
 
 No acumulemos tesoros en la tierra donde desaparecen, sino que acumulemos para nosotros tesoros en el cielo donde permanecen.
+
+Fin.
