@@ -1,0 +1,32 @@
+.site-footer {
+    padding: var(--spacing-xl) var(--container-padding);
+    text-align: center;
+    color: var(--color-text-secondary);
+    border-top: 1px solid var(--color-accent-light);
+    margin-top: var(--spacing-3xl);
+}
+
+.site-footer-text {
+    font-size: var(--font-size-small);
+}
+
+.site-footer-text-primary {
+    margin-bottom: 0;
+}
+
+.site-footer-text-secondary {
+    margin-top: 0.25rem;
+}
+
+.site-footer-avatar {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    vertical-align: middle;
+}
+
+.site-footer a:focus-visible {
+    outline: 3px solid #0b63ce;
+    outline-offset: 2px;
+    border-radius: 4px;
+}

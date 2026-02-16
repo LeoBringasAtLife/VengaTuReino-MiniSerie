@@ -14,7 +14,7 @@ Vos te quedás como diciendo: "¿Qué?". O cuando dice algo tan suelto de cuerpo
 
 Podemos hacer muchos rituales, podemos tener muchas costumbres, podemos hacer muchas cosas, pero si no somos transformados, simplemente fue un buen tiempo, una buena experiencia, algo vivido, qué sé yo, algo lindo, estuvo lindo, pero eso no llena la vida y tampoco te lleva al cielo.
 
-**"La salvación viene por empezar una vida nueva, dejar de ser lo que éramos, empezar a ser una persona distinta."**
+"La salvación viene por empezar una vida nueva, dejar de ser lo que éramos, empezar a ser una persona distinta."
 
 Por eso el acto de bautismo, el bautismo en sí no tiene un poder espiritual sobre nosotros, pero la decisión de bautizarnos sí la tiene, porque la decisión es voluntaria, como la ofrenda. Y la decisión voluntaria de bautizarme, entendiendo lo que estoy haciendo, está diciendo al mundo, está diciendo a Dios: "Yo quiero empezar a ser una persona nueva, una persona distinta, ya no quiero ser lo que era". Por eso digo que es una confrontación constante. Permanentemente, desde que empezás a leer, empezás a caminar con el Señor, tu vida va siendo expuesta, tu vida va siendo tratada, como lo que le decía recién a Facundo.
 

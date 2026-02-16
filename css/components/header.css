@@ -1,4 +1,4 @@
-/* Componente: Header y Navegación */
+﻿/* Componente: Header y Navegacion */
 
 .header {
     position: fixed;
@@ -10,7 +10,6 @@
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
     border-bottom: 1px solid var(--color-accent-light);
-    transition: all var(--transition-normal);
 }
 
 .navigation {
@@ -33,32 +32,53 @@
     color: var(--color-primary);
 }
 
-/* Menú Principal */
-.main-nav {
+/* Navegacion desktop */
+.desktop-nav {
     display: flex;
     list-style: none;
     gap: var(--spacing-xl);
     align-items: center;
+    margin: 0;
+    padding: 0;
 }
 
-.main-nav li {
+.desktop-nav li,
+.mobile-nav li {
     margin: 0;
 }
 
-.main-nav a {
+.desktop-nav a,
+.mobile-nav a {
     border: 1px solid transparent;
     padding: 5px 15px;
-    transition: all var(--transition-fast);
     border: 1px solid #1a1a1a5e;
 }
 
-.main-nav a:hover {
+.desktop-nav a:hover,
+.mobile-nav a:hover {
     background-color: var(--color-primary);
     color: var(--color-secondary);
     border-color: var(--color-primary);
 }
 
-/* Menú Hamburguesa */
+.desktop-nav a:focus-visible,
+.mobile-nav a:focus-visible {
+    outline: 3px solid #0b63ce;
+    outline-offset: 2px;
+    background-color: var(--color-primary);
+    color: var(--color-secondary);
+    border-color: var(--color-primary);
+}
+
+/* Navegacion mobile (oculta por defecto) */
+.mobile-nav {
+    display: none !important;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+/* Menu Hamburguesa */
 .menu-toggle {
     display: none;
     flex-direction: column;
@@ -77,6 +97,18 @@
     background-color: var(--color-primary);
 }
 
+.menu-toggle:focus-visible {
+    outline: 3px solid #0b63ce;
+    outline-offset: 2px;
+    border-radius: 4px;
+}
+
+.logo:focus-visible {
+    outline: 3px solid #0b63ce;
+    outline-offset: 2px;
+    border-radius: 4px;
+}
+
 .menu-toggle.active span:nth-child(1) {
     transform: rotate(45deg) translate(6px, 5px);
 }
@@ -86,5 +118,5 @@
 }
 
 .menu-toggle.active span:nth-child(3) {
-    transform: rotate(-40deg) translate(6px, -6px)
+    transform: rotate(-40deg) translate(6px, -6px);
 }

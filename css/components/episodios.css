@@ -23,7 +23,6 @@
 .episodio-item {
     padding: var(--spacing-lg) 0;
     border-bottom: 1px solid var(--color-accent-light);
-    transition: all var(--transition-fast);
 }
 
 .episodio-item:first-child {
@@ -54,14 +53,14 @@
 .episodio-number {
     font-size: var(--font-size-small);
     font-weight: var(--font-weight-medium);
-    color: var(--color-accent);
+    color: var(--color-text-secondary);
     text-transform: uppercase;
     letter-spacing: 0.1em;
 }
 
 .episodio-date {
     font-size: var(--font-size-small);
-    color: var(--color-accent);
+    color: var(--color-text-secondary);
     white-space: nowrap;
 }
 
@@ -75,10 +74,10 @@
 
 .episodio-desc {
     margin: 0 0 var(--spacing-sm) 0;
-    color: var(--color-accent);
+    color: var(--color-text-secondary);
     font-size: 0.95rem;
     line-height: var(--lh);
-    opacity: 0.95;
+    opacity: 1;
     text-wrap: balance;
 }
 
@@ -123,13 +122,13 @@
     display: flex;
     gap: var(--spacing-lg);
     font-size: var(--font-size-small);
-    color: var(--color-accent);
+    color: var(--color-text-secondary);
     margin-bottom: var(--spacing-md);
 }
 
 .episodio-content {
     line-height: var(--lh);
-    color: var(--color-accent);
+    color: var(--color-text-secondary);
     text-wrap: balance;
 }
 
@@ -160,10 +159,9 @@
     gap: var(--spacing-xs);
     font-size: var(--font-size-small);
     font-weight: var(--font-weight-medium);
-    color: var(--color-accent);
+    color: var(--color-text-secondary);
     text-transform: uppercase;
     letter-spacing: 0.05em;
-    transition: color var(--transition-fast);
 }
 
 .nav-link:hover {
@@ -178,16 +176,23 @@
 
 .back-link {
     display: inline-block;
-    margin-top: var(--spacing-xl);
     font-size: var(--font-size-small);
     font-weight: var(--font-weight-medium);
-    color: var(--color-accent);
+    color: var(--color-text-secondary);
     text-transform: uppercase;
     letter-spacing: 0.05em;
 }
 
 .back-link:hover {
     color: var(--color-primary);
+}
+
+.episodio-link:focus-visible,
+.nav-link:focus-visible,
+.back-link:focus-visible {
+    outline: 3px solid #0b63ce;
+    outline-offset: 2px;
+    border-radius: 4px;
 }
 
 /* La lista/grid global de videos fue eliminada. */

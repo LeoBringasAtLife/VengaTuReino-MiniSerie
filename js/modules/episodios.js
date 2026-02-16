@@ -209,6 +209,42 @@ function generarYouTubeEmbed(videoUrl) {
     return `https://www.youtube.com/embed/${videoId}`;
 }
 
+function actualizarMetadatosEpisodio(episodio) {
+    if (!episodio) return;
+
+    const baseDescripcion = 'Episodio de la miniserie Venga Tu Reino del Pr. Walter Escalante con video y transcripcion completa.';
+    const descripcion = episodio.descripcion && episodio.descripcion.trim() !== ''
+        ? episodio.descripcion.trim()
+        : baseDescripcion;
+    const fullTitle = `${episodio.titulo} - Venga Tu Reino`;
+    const canonicalUrl = new URL(window.location.href);
+    canonicalUrl.search = `?id=${episodio.id}`;
+    canonicalUrl.hash = '';
+
+    document.title = fullTitle;
+
+    const metaDescription = document.getElementById('meta-description');
+    if (metaDescription) metaDescription.setAttribute('content', descripcion);
+
+    const canonical = document.getElementById('canonical-link');
+    if (canonical) canonical.setAttribute('href', canonicalUrl.toString());
+
+    const ogTitle = document.getElementById('og-title');
+    if (ogTitle) ogTitle.setAttribute('content', fullTitle);
+
+    const ogDescription = document.getElementById('og-description');
+    if (ogDescription) ogDescription.setAttribute('content', descripcion);
+
+    const ogUrl = document.getElementById('og-url');
+    if (ogUrl) ogUrl.setAttribute('content', canonicalUrl.toString());
+
+    const twitterTitle = document.getElementById('twitter-title');
+    if (twitterTitle) twitterTitle.setAttribute('content', fullTitle);
+
+    const twitterDescription = document.getElementById('twitter-description');
+    if (twitterDescription) twitterDescription.setAttribute('content', descripcion);
+}
+
 // Nota: la sección/listado global de videos se eliminó. Los videos
 // permanecen únicamente embebidos dentro de la página individual
 // de cada episodio (renderizado por `renderizarEpisodio`).
@@ -284,7 +320,7 @@ async function renderizarEpisodio(episodioId, container) {
     
     container.innerHTML = html;
     
-    document.title = `${episodio.titulo} - Venga Tu Reino`;
+    actualizarMetadatosEpisodio(episodio);
     
     window.scrollTo(0, 0);
 }

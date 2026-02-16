@@ -3,12 +3,25 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Venga Tu Reino es una miniserie de verano que invita a una confrontación constante con la Palabra de Dios para alcanzar una genuina transformación de vida. Únete al serie en esta inspiradora serie que te desafiará a vivir plenamente para el Reino de Dios.">
+    <meta name="description" content="Venga Tu Reino es una miniserie del Pr. Walter Escalante que invita a una confrontación constante con la Palabra de Dios para una transformación de vida genuina.">
+    <link rel="canonical" href="index.html">
+    <meta property="og:locale" content="es_AR">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Venga Tu Reino">
+    <meta property="og:title" content="Venga Tu Reino - Miniserie">
+    <meta property="og:description" content="Explora la miniserie Venga Tu Reino: episodios, transcripciones y enseñanzas del Pr. Walter Escalante.">
+    <meta property="og:url" content="index.html">
+    <meta property="og:image" content="assets/images/logo-iglesia-restauracion.webp">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Venga Tu Reino - Miniserie">
+    <meta name="twitter:description" content="Explora la miniserie Venga Tu Reino: episodios, transcripciones y enseñanzas del Pr. Walter Escalante.">
+    <meta name="twitter:image" content="assets/images/logo-iglesia-restauracion.webp">
 
     <title>Venga Tu Reino - Miniserie</title>
 
-    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="assets/images/logo-iglesia-restauracion.webp" type="image/webp">
 
+    <!-- CSS -->
     <link rel="stylesheet" href="css/base/variables.css">
     <link rel="stylesheet" href="css/base/reset.css">
     <link rel="stylesheet" href="css/base/typography.css">
@@ -19,6 +32,7 @@
     <link rel="stylesheet" href="css/components/hero.css">
     <link rel="stylesheet" href="css/components/episodios.css">
     <link rel="stylesheet" href="css/components/loading.css">
+    <link rel="stylesheet" href="css/components/footer.css">
 
     <link rel="stylesheet" href="css/base/responsive.css">
 </head>
@@ -27,16 +41,21 @@
     <header class="header">
         <nav class="navigation container">
                 <a href="index.html" class="logo">Venga Tu Reino</a>
-                <ul class="main-nav">
-                    <li><a href="index.html">Inicio</a></li>
-                    <li><a href="episodios.html">Episodios</a></li>
-                    <li><a href="sobre.html">Sobre</a></li>
-                </ul>
-                <button class="menu-toggle" aria-label="Menú">
-                    <span></span>
-                    <span></span>
-                    <span></span>
-                </button>
+            <ul class="desktop-nav" aria-label="Navegación principal (desktop)">
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="episodios.html">Episodios</a></li>
+                <li><a href="sobre.html">Sobre</a></li>
+            </ul>
+            <ul class="mobile-nav" id="mobile-navigation" aria-label="Navegación principal (mobile)">
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="episodios.html">Episodios</a></li>
+                <li><a href="sobre.html">Sobre</a></li>
+            </ul>
+            <button class="menu-toggle" type="button" aria-label="Abrir menú principal" aria-controls="mobile-navigation" aria-expanded="false" aria-haspopup="true">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
         </nav>
     </header>
 
@@ -60,24 +79,18 @@
         </div>
     </section>
 
-    <footer style="padding: var(--spacing-xl) var(--container-padding); text-align: center; color: var(--color-accent); border-top: 1px solid var(--color-accent-light); margin-top: var(--spacing-3xl);">
-        <p style="font-size: var(--font-size-small); margin-bottom: 0;">
+    <footer class="site-footer">
+        <p class="site-footer-text site-footer-text-primary">
             &copy; 2025 Venga Tu Reino -
             <a href="https://www.instagram.com/walteresca/" target="_blank">Walter Escalante</a>
-            <a href="https://www.instagram.com/walteresca/" target="_blank">
-                <img src="assets/images/pastor-waltescalante.jpg" alt="Walter Escalante" style="width: 20px; height: 20px; border-radius: 50%; vertical-align: middle;">
-            </a>
+                <img src="assets/images/pastor-waltescalante.webp" alt="Walter Escalante" class="site-footer-avatar">
             &mdash; Fundador de
             <a href="https://www.instagram.com/iglesiarestauracion/" target="_blank">Iglesia Restauración</a>
-            <a href="https://www.instagram.com/iglesiarestauracion/" target="_blank">
-                <img src="assets/images/logo-iglesia-restauracion.jpg" alt="Iglesia Restauración" style="width: 20px; height: 20px; border-radius: 50%; vertical-align: middle;">
-            </a>
+                <img src="assets/images/logo-iglesia-restauracion.webp" alt="Iglesia Restauración" class="site-footer-avatar">
         </p>
-        <p style="font-size: var(--font-size-small); margin-top: 0.25rem;">
+        <p class="site-footer-text site-footer-text-secondary">
             Desarrollado por <a href="https://www.instagram.com/leobringasatlife/" target="_blank">Leonardo Bringas</a>
-            <a href="https://www.instagram.com/leobringasatlife/" target="_blank">
-                <img src="assets/images/leo3.jpeg" alt="Leonardo Bringas" style="width: 20px; height: 20px; border-radius: 50%; vertical-align: middle;">
-            </a>
+                <img src="assets/images/leo.webp" alt="Leonardo Bringas" class="site-footer-avatar">
         </p>
     </footer>
 

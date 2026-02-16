@@ -1,139 +1,134 @@
 # Venga Tu Reino - Miniserie
 
-Un sitio web para la miniserie de verano "Venga Tu Reino", dirigida por el Pastor Walter Escalante. Este proyecto nació de la idea de crear una plataforma donde las personas puedan acceder fácilmente a los episodios, sus transcripciones y videos de manera organizada y accesible.
+Sitio web estático de la miniserie **"Venga Tu Reino"**, con listado de episodios, página individual por episodio, transcripciones en Markdown y video de YouTube embebido por episodio.
 
-## Sobre el Proyecto
+## Descripción
 
-Este sitio web está diseñado para presentar una miniserie que invita a una confrontación constante con la Palabra de Dios para alcanzar una genuina transformación de vida. La idea original fue concebida por **Leonardo Bringas**, quien trabajó en conjunto con inteligencia artificial (Claude Sonnet 4.5) para desarrollar este proyecto desde cero.
+El proyecto presenta una serie de mensajes centrados en la transformación de vida a la luz de la Palabra de Dios. El contenido se administra desde un archivo JSON y archivos Markdown, sin backend ni framework.
 
-El sitio permite navegar por los diferentes episodios, leer las transcripciones completas con timestamps (en realidad no va con timestamps, sino que ahora las transcrippciones estan en crudo), ver los videos embebidos en cada episodio individual, y conocer más sobre la serie y el pastor que la dirige.
+## Características actuales
 
-## Características
+- Navegación responsive (desktop y móvil).
+- Lista de episodios dinámica desde `data/episodios.json`.
+- Página individual `episodio.html?id=...` con:
+  - Título, número y fecha.
+  - Video de YouTube embebido.
+  - Transcripción renderizada desde Markdown.
+  - Navegación entre episodio anterior y siguiente.
+- Manejo de estados de carga, vacío y error.
+- Cache en memoria de transcripciones para evitar recargas repetidas.
 
-- **Navegación intuitiva**: Menú responsive que se adapta a dispositivos móviles y desktop
-- **Episodios dinámicos**: Los episodios se cargan desde un archivo JSON, facilitando la actualización del contenido
-- **Transcripciones formateadas**: Las transcripciones se procesan automáticamente y se formatean en párrafos legibles
-- **Videos embebidos por episodio**: Cada episodio individual puede incluir un video embebido desde YouTube; ya no se muestra un listado global de videos en la página de episodios.
-- **Diseño responsive**: Funciona perfectamente en cualquier dispositivo
-- **Navegación entre episodios**: Enlaces para moverse entre episodios anteriores y siguientes
+## Stack
 
-## Estructura del Proyecto
+- `HTML5`
+- `CSS3`
+- `JavaScript` (vanilla)
+- `JSON` para metadatos de episodios
+- `Markdown` para transcripciones
+- Librería externa: `marked` (CDN) para parseo Markdown
 
-```
+## Estructura del proyecto
+
+```text
 VengaTuReino-MiniSerie/
 ├── assets/
 │   └── images/
-│       └── leo3.jpeg          # Imagen del pastor (es mi foto, para probar las dimensiones)
+│       ├── leo.jpeg
+│       ├── logo-iglesia-restauracion.jpg
+│       └── pastor-waltescalante.jpg
+│
 ├── css/
 │   ├── base/
-│   │   ├── variables.css       # Variables CSS y fuentes
-│   │   ├── reset.css           # Reset y estilos base
-│   │   ├── typography.css      # Tipografía (h1-h6, p, a)
-│   │   └── responsive.css      # Media queries responsive
-│   ├── layout/
-│   │   └── container.css       # Container y utilidades
-│   └── components/
-│       ├── header.css          # Estilos del header y navegación
-│       ├── hero.css            # Estilos de la sección hero
-│       └── episodios.css       # Estilos de episodios y contenido
+│   │   ├── reset.css
+│   │   ├── responsive.css
+│   │   ├── typography.css
+│   │   └── variables.css
+│   ├── components/
+│   │   ├── episodios.css
+│   │   ├── header.css
+│   │   ├── hero.css
+│   │   └── loading.css
+│   └── layout/
+│       └── container.css
+│
 ├── data/
-│   └── episodios.json          # Datos de todos los episodios
+│   └── episodios.json
 ├── js/
 │   ├── core/
-│   │   └── navigation.js       # Funcionalidad de navegación (menú, scroll)
+│   │   └── navigation.js
 │   └── modules/
-│       └── episodios.js        # Lógica de carga y renderizado de episodios
+│       └── episodios.js
+│
 ├── transcripciones/
-│   ├── Episodio01.txt
-│   ├── Episodio02.txt
-│   ├── Episodio03.txt
-│   ├── Episodio04.txt
-│   └── Episodio05.txt
-├── index.html                  # Página principal
-├── episodios.html              # Lista de todos los episodios
-├── episodio.html               # Página individual de cada episodio
-├── sobre.html                  # Página "Sobre la serie"
-├── README.md                   # Documentación del proyecto
-└── PROMPT_ORIGINAL.md          # Prompt original usado para crear el proyecto
+│   ├── Episodio01.md
+│   ├── Episodio02.md
+│   ├── Episodio03.md
+│   ├── Episodio04.md
+│   └── Episodio05.md
+│
+├── episodio.html
+├── episodios.html
+├── index.html
+├── sobre.html
+├── PROMPT_ORIGINAL.md
+└── README.md
 ```
 
-## Tecnologías Utilizadas
+## Flujo de datos
 
-- **HTML5**: Estructura semántica.
-- **CSS3**: Estilos con variables CSS para mantener consistencia.
-- **JavaScript (Vanilla)**: Sin frameworks, JavaScript totalmente puro para la funcionalidad.
-- **JSON**: Para almacenar y gestionar los datos de todos los episodios.
+1. `js/modules/episodios.js` carga `data/episodios.json`.
+2. Según la página:
+   - `index.html` muestra episodios recientes (`data-limite="5"`).
+   - `episodios.html` muestra todos los episodios.
+   - `episodio.html?id=N` busca el episodio por `id`.
+3. Si existe `archivo`, carga la transcripción Markdown y la renderiza con `marked`.
+4. Si existe `videoUrl`, genera el `embed` de YouTube en la página individual.
 
-## Cómo Funciona
+## Formato de `data/episodios.json`
 
-### Carga de Episodios
+Cada episodio sigue esta estructura:
 
-Los episodios se cargan dinámicamente desde `data/episodios.json`. Este archivo contiene toda la información de cada episodio:
-
-- Título y número
-- Fecha de publicación
-- URL del video de YouTube
-- Ruta al archivo de transcripción
-- Estado de disponibilidad
-- Descripción
-
-### Procesamiento de Transcripciones
-
-Las transcripciones se encuentran en archivos `.txt` dentro de la carpeta `transcripciones/`. El JavaScript procesa estos archivos para:
-- Convertir el texto plano en párrafos HTML formateados
-- Mantener el formato original del texto
-- Mostrar el contenido de manera legible en el sitio
-
-### Navegación
-
-El sitio incluye:
-- Menú 'mobile'.
-- Header que cambia de estilo al hacer scroll
-- Navegación entre episodios (anterior/siguiente)
-- Enlaces de regreso a la lista de episodios
-
-## Cómo Agregar un Nuevo Episodio
-
-1. **Agregar la transcripción**: Crea un nuevo archivo `.txt` en la carpeta `transcripciones/` (ej: `Episodio06.txt`)
-
-2. **Actualizar el JSON**: Agrega un nuevo objeto en `data/episodios.json`:
 ```json
 {
   "id": 6,
   "numero": 6,
-  "titulo": "Venga Tu Reino | Episodio 06",
+  "titulo": "TÍTULO DEL EPISODIO",
   "fecha": "2026-02-11",
-  "archivo": "transcripciones/Episodio06.txt",
+  "archivo": "transcripciones/Episodio06.md",
   "disponible": true,
   "videoUrl": "https://youtu.be/VIDEO_ID",
-  "descripcion": "Descripción del episodio"
+  "descripcion": "Resumen breve del episodio"
 }
 ```
 
-3. **Listo**: El nuevo episodio aparecerá automáticamente en todas las páginas del sitio
+## Cómo agregar un nuevo episodio
 
-## Formato de Transcripciones
+1. Crear la transcripción en `transcripciones/` con nombre consistente, por ejemplo: `Episodio06.md`.
+2. Agregar el nuevo objeto en `data/episodios.json`.
+3. Verificar:
+   - Que `id` no se repita.
+   - Que `archivo` apunte al `.md` correcto.
+   - Que `videoUrl` sea una URL válida de YouTube.
+4. Al recargar, el episodio aparece automáticamente en el listado y en su vista individual.
 
-Las transcripciones deben seguir este formato:
+## Desarrollo local
 
+Como el proyecto usa `fetch()` para leer JSON y Markdown, conviene servirlo con un servidor local (no abrir con doble clic):
+
+```bash
+# Opción 1: VS Code Live Server
+# Abrir la carpeta y usar "Open with Live Server"
+
+# Opción 2: Python (la que usó)
+python -m http.server 5000
 ```
-Transcripción del Episodio XX (título)
 
-Texto del inicio del episodio... (contenido)
-Continuación del contenido... (contenido)
-Más contenido... (contenido)
-```
-
-El sistema procesa automáticamente el texto y lo formatea en párrafos HTML para una lectura cómoda en el sitio.
-
-## Desarrollo
-
-Este proyecto fue desarrollado con la colaboración de inteligencia artificial (Claude Sonnet 4.5), pero la idea original, la visión y la dirección del proyecto provienen de **Leonardo Bringas**. La IA ayudó en la implementación técnica, pero el concepto y los objetivos fueron definidos completamente por el creador humano.
-
-## Licencia
-
-© 2025 Venga Tu Reino - Pastor Walter Escalante
+Luego abrir `http://localhost:5000`.
 
 ---
 
-*Desarrollado con la idea original de Leonardo Bringas y asistencia de Claude Sonnet 4.5*
+## Créditos
+
+- Dirección de la miniserie: **Pr. Walter Escalante**
+- Desarrollo: **Leonardo Bringas** y **Claude Sonnet 4.5**
+
