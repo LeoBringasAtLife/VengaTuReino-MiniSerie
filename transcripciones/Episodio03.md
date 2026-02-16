@@ -3,61 +3,71 @@ Y justamente de lo que de lo que estamos hablando en esta ya hoy episodio 3 de e
 A veces nos vamos acostumbrando, nos vamos acomodando, nos vamos relajando, entendemos los
 principios, entendemos los conceptos espirituales, sabemos, por supuesto, que Dios es Dios y el lugar que él tiene,
 pero lo vamos dejando de lado, lo vamos relegando y vamos poniendo otras cosas en primer lugar, a veces que
-sencillamente por las ocupaciones, por el trabajo, como en el caso lo que contaba ella que le pasó contaba
-Melanie (un testimonio que pasó ese día de reunión), que su trabajo prácticamente la sacó de la iglesia por el ritmo, por el horario y demás, no es el único caso.
+sencillamente por las ocupaciones, por el trabajo, como en el caso lo que contaba ella que le pasó contaba [Melanie Niz Godoy](https://youtu.be/i0ymlzxL_Hs?si=12cB1LJp2mM9kBvz), que su trabajo prácticamente la sacó de la iglesia por el ritmo, por el horario y demás, no es el único caso.
+
 Hay muchos casos que tienen esa misma situación. Entonces, sea por lo que sea, te vas corriendo, te vas enfriando, te
 vas alejando, a veces accidentalmente, a veces eventualmente, a veces por decisión propia, te vas corriendo, te
-vas alejando y al final no está Dios en el primer lugar de tu vida. Aunque vos lo sigas pensando, aunque sigas diciendo
-que sos cristiano, aunque en tu intimidad, en tu en tus tiempos sigas teniendo una mínima relación con Dios,
-aunque sigas creyendo todos los principios, en que conozcas la Biblia y tal vez incluso la hasta la recites,
-pero es muy fácil, mucho más fácil de lo que uno piensa, poner otras cosas en primer lugar. Ven, ven a tu reino. Tiene
-que ver con la declaración de este año, parte de la declaración de este año. Año
-de renuevo, cambio de posición y tiempo, que eso es lo que da el puntapié, tiempo
-de madurez. Un año donde el Señor nos lleva a una posición distinta, un año donde el Señor nos coloca con una visión
+vas alejando y al final no está Dios en el primer lugar de tu vida.
+
+Aunque vos lo sigas pensando, aunque sigas diciendo que sos cristiano, aunque en tu intimidad, en tu en tus tiempos sigas teniendo una mínima relación con Dios, aunque sigas creyendo todos los principios, en que conozcas la Biblia y tal vez incluso la hasta la recites,
+pero es muy fácil, mucho más fácil de lo que uno piensa, poner otras cosas en primer lugar.
+
+Venga tu reino. Tiene que ver con la declaración de este año, parte de la declaración de este año. **Año de renuevo**, **cambio de posición** y **tiempo de madurez**.
+
+Un año donde el Señor nos lleva a una posición distinta, un año donde el Señor nos coloca con una visión
 renovada, un año donde el Señor empieza a ajustar algunas cosas en nosotros, donde empezamos en un nuevo cero, en una
 posición más alta. lo que hay que transitar ese nuevo piso cero, empezar a andar ahí, pero por sobre todas las
-cosas y les repito, tiempo de madurez. ¿Qué implica ese tiempo de madurez y hacer lo que hay que hacer? poner cadaas
-cosas en el lugar que tiene que estar, porque la madurez cristiana implica no solamente una cuestión de edad, como
-decía el otro día, sino el sábado, sino que la madurez cristiana tiene que ver con ejercer el rol, la función para la
+cosas y les repito, tiempo de madurez.
+
+¿Qué implica ese tiempo de madurez y hacer lo que hay que hacer? poner cada cosas en el lugar que tiene que estar, porque la madurez cristiana implica no solamente una cuestión de edad, como
+decía el otro día, el sábado, sino que la madurez cristiana tiene que ver con ejercer el rol, la función para la
 que fuiste creado. Madurez cristiana, ser maduro en Cristo significa entender tu llamado, tu propósito y ejercerlo.
 
 Ser maduro en Cristo significa dejar la pavada, la tontería o dejar de congregar
 porque voy a la iglesia y la paso bien y me encuentro con amigos y tengo un buen
-momento y qué sé yo y más o menos te vas sacando de de la cabeza de tus situaciones. La madurez cristiana
-significa con habiendo pasado todo eso, tomar el lugar que te corresponde dentro
-de esta maquinaria, de este plan, de este proyecto de Dios. Significa Primera de Corintios, capítulo 3, versículo 11,
-que lo agregué hoy a esta a esta serie, un versículo que el sábado le dije, costumbres a escucharlo mucho este año,
+momento y qué sé yo y más o menos te vas sacando de de la cabeza de tus situaciones.
+
+La madurez cristiana significa con habiendo pasado todo eso, tomar el lugar que te corresponde dentro
+de esta maquinaria, de este plan, de este proyecto de Dios. Significa:
+
+**1 Corintios 13:11** *"Cuando yo era niño, hablaba como niño, pensaba como niño, razonaba como niño; cuando llegué a ser adulto, dejé atrás las cosas de niño."* 
+
+Que lo agregué hoy a esta a esta serie, un versículo que el sábado le dije, costumbres a escucharlo mucho este año,
 significa dejar las cosas típicas de niño y empezar a ser, bueno, el
 versículo dice a ser hombre porque es un hombre que está hablando, pero empezar a hacer cosas de adulto, comportarse con
-en con un compromiso, con el llamado, con la posición, con quién soy. empezar a hacer lo que Dios quiere de mí. ¿Qué es? Mateo capítulo 5 versículo 16. Hagan brillar su luz delante de todos para que
+en con un compromiso, con el llamado, con la posición, con quién soy. empezar a hacer lo que Dios quiere de mí. ¿Qué es?
 
-ellos puedan ver las buenas obras de ustedes y así alaben a su Padre que está en los cielos. tu propósito, tu llamado,
-tu función, tu compromiso con Dios. Una vez que lo recibiste, una vez que él te llamó, una vez que él te rescató,
+**Mateo 5:16.** *"Hagan brillar su luz delante de todos para que ellos puedan ver las buenas obras de ustedes y así alaben a su Padre que está en los cielos."* **tu propósito**, **tu llamado**, **tu función**, **tu compromiso con Dios**.
+
+Una vez que lo recibiste, una vez que él te llamó, una vez que él te rescató,
 estamos para ser luz, estamos para brillar, estamos para alumbrar, estamos
 para anunciar, no solamente para estar metidos en nuestra situación, sino para haciendo luz mostrar el camino a la
-bendición, a la salvación, a la a la prosperidad, a que se puede vivir de otra manera. Primera de Pedro 29.
-Ustedes son linaje escogido, real sacerdocio, nación santa, pueblo
-adquirido por Dios, para que anuncien los hechos maravillosos de aquel que lo llamó de las tinieblas a su luz
-admirable. Eso es ser cristiano. Básicamente la palabra cristiano significa seguidor de Cristo. Pero
+bendición, a la salvación, a la a la prosperidad, a que se puede vivir de otra manera.
 
-seguidor de Cristo, ¿para qué? para que él responda a una oración, para que él
+
+1 Pedro 2:9. *"Pero ustedes son linaje escogido, real sacerdocio, nación santa, pueblo adquirido por Dios, para que anuncien los hechos maravillosos de aquel que los llamó de las tinieblas a su luz admirable."* Eso es ser cristiano. Básicamente la palabra cristiano significa seguidor de Cristo.
+
+Pero seguidor de Cristo, ¿para qué? para que él responda a una oración, para que él
 haga un milagro en mi vida, para que él restaure mi casa, mi familia, para que él me prospere, para que él me bendiga.
 Bueno, todo eso sí puede pasar. Son cosas que van pasando, son cosas que vienen dentro del combo, dentro del pack
-de cuando usted hace lo que tiene que hacer, porque dice Mateo 6:33, "Busquen primeramente, antes que otra
-cosa, el reino de Dios. Venga, tu reino tiene que ver con eso. Busquen primeramente el reino de Dios y todo lo
-demás. Estas cosas que le cuento, las cosas que uno busca, las cosas que uno necesita, las cosas que uno quiere tener
+de cuando usted hace lo que tiene que hacer, porque dice Mateo 6:33, *Busquen primeramente*, antes que otra
+cosa, el reino de Dios. Venga, tu reino tiene que ver con eso. *Busquen primeramente el reino de Dios y todo lo
+demás.*
+
+Estas cosas que le cuento, las cosas que uno busca, las cosas que uno necesita, las cosas que uno quiere tener
 o experimentar, todo lo demás le será añadido. Por lo tanto, venga tu reino
 significa o tiene que ver con responsabilizarse con nuestra función, nuestro llamado y nuestro propósito. La
 madurez cristiana y ven a tu reino tiene que ver con hacer que se manifieste el reino de Cristo en la tierra. 
 
-El texto
-central de esta serie o estos dos versículos que son lo central de esta serie, Mateo capítulo 6 versículo 9, que
+El texto central de esta serie o estos dos versículos que son lo central de esta serie, Mateo 6:9, que
 es cuando el Señor Jesús le enseñó a sus discípulos cómo tenían que orar, lo que
 nosotros conocemos como el Padre Nuestro. Dice, "Ustedes deben orar así. Padre nuestro que estás en los cielos,
 santificado sea tu nombre, tómese la primer parte que dice, ustedes deben
 orar así. Es una dirección, es un mandato, una instrucción. Debemos hacerlo de esta manera." Y el versículo
 10 es el clave central de esto. Venga tu reino, hágase tu voluntad en la tierra
-como en el cielo. Venga tu reino. No es solamente a veces se piensa en el hecho
+como en el cielo.
+
+Venga tu reino. No es solamente a veces se piensa en el hecho
 de que de la segunda venida de Cristo. A veces piensan en que el Señor venga a llevarse a la iglesia. A veces se puede
 pensar en que se termine la injusticia a a la medida de los hombres. A veces se
 puede pensar en algo neta y solamente espiritual. Pero venga tu reino. No tiene que ver con eso. Eso es por
@@ -431,6 +441,12 @@ después juego al basquet, después me voy al campo. Ah, no te no te olvides, me
 Y lo mismo la otra la otra parte del otro lado. Eso es un matrimonio.
 Entonces, cuando le digo sí a Cristo, tiene que estar él en primer lugar.
 
-Póngase en pie. Terminamos ya con esto. [Música] Si los ojos son la lámpara del cuerpo, si los ojos son los que alumbran mis pensamientos, mi mente y por eso mis decisiones y todo lo que yo haga en mi vida, tengo que cuidar lo que miro.
+Póngase en pie. Terminamos ya con esto.
 
-Tengo que cuidar de qué me informo, de qué me alimento. Tengo que cuidar qué es lo que incorporo a mi mente, cómo cuido mis pensamientos. El apóstol Pablo dice en Filipenses da da una clave que a veces algunos le es muy fácil, a otros le es muy complicada, pero te direcciona, te está diciendo cómo hacer, te dice, bueno, por lo tanto, piens en esto. Me me encantó algo, lo tengo en la cabeza medio medio enredado todavía por la prédica de la pastora del domingo. Algunas cosas que fui soltando, que fui diciendo de golpe me di cuenta de una secuencia que hay en Filipenses 4 que a la que nunca le presté atención porque siempre presta atención en forma separada. Filipenses 4:6, wow, qué copado. Filipenses 4:7, mira qué bueno, qué copado. Filipenses 4, uh, qué bueno esto por allá. Y de golpe dice, tac, tac, tac. Pero si es una secuencia, está hablando todo lo mismo. Hay una relación entre esto y esto. En algún momento puede desarrollar esa parte. Pero lo que quiero decirles esto. Dice de golpe, dice Pablo, piensen las cosas que sean buenas, las que agraden a Dios. Piensen en aquello que le de la gloria a Dios, lo que honre a Dios. Piense en las cosas que tengan alguna virtud o que sean dignas de alabar. Te está direccionando cómo pensar. Pero antes de tener que caer en el que te direccionen cómo pensás, ¿qué está pasando con tus pensamientos? ¿Qué estás pensando? ¿Qué idea? ¿Qué palabra, qué situación ocupa tu mente todo el día? ¿Qué es lo primero que ves cuando cerrás tus ojos o lo primero que pensas en cuando te despertas? ¿Qué situación ocupa tu tiempo, tu agotamiento, tus pensamientos, tu preocupación, tu estrés? ¿Qué es lo que está todo el día en tu cabeza? ¿De qué estás empapado, enterado? ¿De qué cosa no tenés ni la menor idea? Estás al tanto de la situación de la parejita de tal y tal o de la separación del otro con la otra o de que tal BD o que tal actor estás al tanto de qué lo que tal deportista o tal futbolista o que este el otro es más allá que fulanita se fue con el otro y mira lo que dijo y mira lo que hizo. Estás al tanto de cada uno de los programas del chimento que son cada vez más guarros por Dios y perdónemme la expresión pero son ya un asco lo que pasa en esos programas. Estás al tanto de la secuencia de lo que dicen, de los panelistas, de lo que hacen, de tal tás al tanto de qué está haciendo Dios. ¿Dónde están tus pensamientos? ¿Qué pasa en tu cabeza? Yeah.
+Si los ojos son la lámpara del cuerpo, si los ojos son los que alumbran mis pensamientos, mi mente y por eso mis decisiones y todo lo que yo haga en mi vida, tengo que cuidar lo que miro.
+
+Tengo que cuidar de qué me informo, de qué me alimento. Tengo que cuidar qué es lo que incorporo a mi mente, cómo cuido mis pensamientos.
+
+El apóstol Pablo dice en Filipenses da una clave que a veces algunos le es muy fácil, a otros le es muy complicada, pero te direcciona, te está diciendo cómo hacer, te dice, bueno, por lo tanto, *"piensen en esto"*. Me me encantó algo, lo tengo en la cabeza medio enredado todavía por la prédica de la pastora del domingo. Algunas cosas que fui soltando, que fui diciendo de golpe me di cuenta de una secuencia que hay en Filipenses 4 que a la que nunca le presté atención porque siempre presta atención en forma separada.
+
+Filipenses 4:6, wow, qué copado. Filipenses 4:7, mira qué bueno, qué copado. Filipenses 4, uh, qué bueno esto por allá. Y de golpe dice, tac, tac, tac. Pero si es una secuencia, está hablando todo lo mismo. Hay una relación entre esto y esto. En algún momento puede desarrollar esa parte. Pero lo que quiero decirles esto. Dice de golpe, dice Pablo, piensen las cosas que sean buenas, las que agraden a Dios. Piensen en aquello que le de la gloria a Dios, lo que honre a Dios. Piense en las cosas que tengan alguna virtud o que sean dignas de alabar. Te está direccionando cómo pensar. Pero antes de tener que caer en el que te direccionen cómo pensás, ¿qué está pasando con tus pensamientos? ¿Qué estás pensando? ¿Qué idea? ¿Qué palabra, qué situación ocupa tu mente todo el día? ¿Qué es lo primero que ves cuando cerrás tus ojos o lo primero que pensas en cuando te despertas? ¿Qué situación ocupa tu tiempo, tu agotamiento, tus pensamientos, tu preocupación, tu estrés? ¿Qué es lo que está todo el día en tu cabeza? ¿De qué estás empapado, enterado? ¿De qué cosa no tenés ni la menor idea? Estás al tanto de la situación de la parejita de tal y tal o de la separación del otro con la otra o de que tal BD o que tal actor estás al tanto de qué lo que tal deportista o tal futbolista o que este el otro es más allá que fulanita se fue con el otro y mira lo que dijo y mira lo que hizo. Estás al tanto de cada uno de los programas del chimento que son cada vez más guarros por Dios y perdónemme la expresión pero son ya un asco lo que pasa en esos programas. Estás al tanto de la secuencia de lo que dicen, de los panelistas, de lo que hacen, de tal tás al tanto de qué está haciendo Dios. ¿Dónde están tus pensamientos? ¿Qué pasa en tu cabeza? Yeah.

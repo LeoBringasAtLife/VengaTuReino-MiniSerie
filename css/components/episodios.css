@@ -21,12 +21,9 @@
 }
 
 .episodio-item {
-    padding: var(--spacing-lg) 0;
+    padding: calc(var(--spacing-lg) - 1px) var(--spacing-lg);
     border-bottom: 1px solid var(--color-accent-light);
-}
-
-.episodio-item:first-child {
-    padding-top: 0;
+    border: 1px solid transparent;
 }
 
 .episodio-item:last-child {
@@ -34,7 +31,7 @@
 }
 
 .episodio-item:hover {
-    padding-left: var(--spacing-sm);
+    background-color: #45454512;  
 }
 
 .episodio-link {
@@ -90,7 +87,6 @@
     letter-spacing: 0.05em;
     padding: 0.25rem 0.5rem;
     background-color: var(--color-accent-light);
-    border-radius: 2px;
 }
 
 .episodio-status.proximamente {

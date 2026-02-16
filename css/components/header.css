@@ -59,6 +59,7 @@
     background-color: var(--color-primary);
     color: var(--color-secondary);
     border-color: var(--color-primary);
+    opacity: 0.9;
 }
 
 .desktop-nav a:focus-visible,

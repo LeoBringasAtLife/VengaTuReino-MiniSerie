@@ -1,12 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
 
 :root {
-    --color-primary: #1a1a1a;
+    --color-primary: #000000;
     --color-secondary: #ffffff;
-    --color-accent: #3c362e;
-    --color-text-secondary: #2f2a24;
-    --color-accent-light: #e2e8f0;
+    --color-accent: #3A342C;
+    --color-text-secondary: #000000;
+    --color-accent-light: #E4EAF1;
     --color-hover: #2d3748;
+    --color-visited: #6c2122f7;
     
     --font-primary: 'Inter', sans-serif;
     --font-secondary-episodios: sans-serif;

@@ -30,3 +30,22 @@
     outline-offset: 2px;
     border-radius: 4px;
 }
+
+.site-a-footer,
+.sit-a-footer {
+    color: var(--color-primary);
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    text-decoration-color: var(--color-accent-light);
+}
+
+.site-a-footer:hover,
+.sit-a-footer:hover {
+    color: var(--color-hover);
+    text-decoration-color: var(--color-accent-light);
+}
+
+.site-a-footer:visited,
+.sit-a-footer:visited {
+    color: var(--color-visited);
+}
