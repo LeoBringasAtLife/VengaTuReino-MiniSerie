@@ -1,0 +1,21 @@
+/* Componente: Sobre */
+
+.sobre-main {
+    padding-top: calc(70px + var(--spacing-3xl));
+}
+
+.sobre-container {
+    max-width: 800px;
+}
+
+.sobre-subtitle {
+    margin-top: var(--spacing-xl);
+    margin-bottom: var(--spacing-md);
+}
+
+.sobre-pastor-image {
+    width: 35%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: var(--spacing-md);
+}

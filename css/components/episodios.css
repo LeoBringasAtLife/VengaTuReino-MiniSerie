@@ -30,8 +30,10 @@
     border-bottom: none;
 }
 
-.episodio-item:hover {
-    background-color: #45454512;  
+@media (hover: hover) and (pointer: fine) {
+    .episodio-item:hover {
+        background-color: #45454512;
+    }
 }
 
 .episodio-link {
@@ -190,8 +192,6 @@
     outline-offset: 2px;
     border-radius: 4px;
 }
-
-/* La lista/grid global de videos fue eliminada. */
 
 /* Video en página individual */
 .episodio-video {
